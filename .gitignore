@@ -1,0 +1,9 @@
+.venv
+__pycache__
+smelly_brain.db
+.env
+.env_example
+.jpg
+.png
+test.py
+sqlite.py
