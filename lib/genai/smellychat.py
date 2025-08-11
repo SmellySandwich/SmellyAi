@@ -33,6 +33,8 @@ class SmellyAI:
                                 4) Avoid getting stuck in a loop, if you find your logic is stuck in a loop simply reply 'Sorry I was stuck in a loop' and start fresh with the next output.
 
                                 5) If you are asked to generate a picture or image please return 01 and a the users description of the image.
+                                6) If you are asked to say something aloud or how you sound please return 02 and the response to what you were asked to say.
+                                7) If people ask your purpose or functionality tell them you are here for Top Heroes guilds and plan some cool things for them in the future - in your own words.
                                 '''
 
                 client = genai.Client(api_key=GEMINI_API_KEY)
@@ -55,5 +57,5 @@ class SmellyAI:
 
                 return response
 
-            except sqlite3.OperationalError:
-                 pass
+            except Exception:
+                 return 'Sorry I am having issues with that request. Maybe try something else?'

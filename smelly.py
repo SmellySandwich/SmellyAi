@@ -10,11 +10,11 @@ from time import sleep
 from datetime import datetime
 
 # AI imports.
-import googletrans
 from google import genai
 from google.genai import types
 from PIL import Image
 from io import BytesIO
+import pyttsx3
 
 # Custom imports.
 from lib.env.settings import DISCORD_API_TOKEN
@@ -88,6 +88,9 @@ def run():
                         
                         response = smellyai.chatbot(channel, content)
                         
+
+
+
                         ''' Execute functions based on specific return '''
 
                         # Image generation.
@@ -103,6 +106,22 @@ def run():
                             else:
                                 await message.channel.send(file=File(f'{str(channel)}.png'))
                                 os.remove(f'{str(channel)}.png')
+
+
+                        # Voice file output.
+                        if response[:2] == '02':
+                            engine = pyttsx3.init()
+                            engine.setProperty('rate', 150)
+
+                            engine.save_to_file(f"{response[3:]}", f'{str(channel)}.mp3')
+                            engine.runAndWait()
+                            engine = pyttsx3.init()
+                            
+                            await message.channel.send(file=File(f'{str(channel)}.mp3'))
+                            os.remove(f'{str(channel)}.mp3')
+
+
+
 
                         # Respond to input if no special functions are called.
                         else:

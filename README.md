@@ -29,3 +29,4 @@ This code is not to be used, modified, or distributed without explicit permissio
 - pillow
 - googletrans (API key required)
 - google-genai (API key required)
+- pyttsx3

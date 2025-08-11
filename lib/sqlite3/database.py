@@ -42,7 +42,7 @@ Shhhhh... it's ok now guys. SmellyBot is here.
 
             c.execute("SELECT memory FROM Memory WHERE channel = ?", (channel,))
             smelly_memory = c.fetchall()[0][0]
-            smelly_first_output = 'SmellyBot:I am SmellyBot.'        
+            smelly_first_output = 'Greetings! I am SmellyBot, ready to assist with your questions and tasks. How may I help you today in this channel?'        
 
             # After Smellybot is called insert first entry to database.
             if smelly_memory is None:
