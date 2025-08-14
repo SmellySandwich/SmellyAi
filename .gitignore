@@ -1,6 +1,7 @@
 .venv
 __pycache__
 smelly_brain.db
+mod_memory.db
 .env
 .env_example
 .jpg

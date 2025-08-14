@@ -1,4 +1,4 @@
-# Discord and other imports.
+# Discord imports.
 import discord
 from discord.ext import commands, tasks
 from discord import File
@@ -8,6 +8,8 @@ import sqlite3
 import os
 from time import sleep
 from datetime import datetime
+import requests
+from io import BytesIO
 
 # AI imports.
 from google import genai
@@ -17,7 +19,7 @@ from io import BytesIO
 import pyttsx3
 
 # Custom imports.
-from lib.env.settings import DISCORD_API_TOKEN
+from lib.env.settings import DISCORD_API_TOKEN, GEMINI_API_KEY
 from lib.sqlite3.database import SmellyMemory
 from lib.genai.smellychat import SmellyAI
 from lib.genai.genimage import Image_Gen
@@ -72,6 +74,7 @@ def run():
         """
 
         channel = message.channel.id
+        user = message.author.id
         
         if message.author.name != 'SmellyAiBeta': # Prevents SmellyBot from answering himself in a loop.
 
@@ -82,10 +85,30 @@ def run():
             if content.lower() != '!smellybot': # Handles error if channel is not yet being watched.
 
                 try:
-                    memory.update_memory(channel, name, content)
+
+                    # If the sent message is an image use OCR to populate database with the description.
+                    if message.attachments:
+                        for attachment in message.attachments:
+                            request = requests.get(attachment.url)
+                            img = Image.open(BytesIO(request.content))
+                            
+                            client = genai.Client(api_key=GEMINI_API_KEY)
+                            response = client.models.generate_content(
+                            model="gemini-2.5-flash", contents=['explain what you see in this picture in detail. Ensure all text is processed', img]
+                            )
+                            
+                            content = f"This is a picture - {response.text}"
+
+                    try:
+                        memory.update_memory(channel, name, content) # Send user message to memory string.       
+                    except IndexError:
+                        pass
 
                     if ('smellybot' or 'smellybot?' or 'smellybot,' or 'smellybot!') in content.lower():
                         
+                        # await message.reply('Sorry folks, I will be down for a few hours. Feel free to contact customer serv... never mind, lost cause. BE BACK SOON!')
+                        # return
+
                         response = smellyai.chatbot(channel, content)
                         
 
@@ -107,9 +130,8 @@ def run():
                                 await message.channel.send(file=File(f'{str(channel)}.png'))
                                 os.remove(f'{str(channel)}.png')
 
-
                         # Voice file output.
-                        if response[:2] == '02':
+                        elif response[:2] == '02':
                             engine = pyttsx3.init()
                             engine.setProperty('rate', 150)
 
@@ -120,12 +142,26 @@ def run():
                             await message.channel.send(file=File(f'{str(channel)}.mp3'))
                             os.remove(f'{str(channel)}.mp3')
 
+                        # Commit images to game specific memory.
+                        elif response[:2] == '03':
+                            memory.image_input_to_game_memory(user, response)
 
+                        # Commit changes and updates to game memory.
+                        elif response[:2] == '04':
+                            response = memory.update_game_memory(user, response)
+                            await message.reply(response)
 
+                        # Clean data to game memory that was posted from discord.
+                        elif response == 'cleanup':
+                            response = memory.cleanup()
+                            await message.reply(response)
 
                         # Respond to input if no special functions are called.
                         else:
                             await message.reply(response)
+
+        
+
 
                 except sqlite3.OperationalError:
                     pass

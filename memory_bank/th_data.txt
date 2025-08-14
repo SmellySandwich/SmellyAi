@@ -1,0 +1,1171 @@
+# Top 15 Beginner Friendly Tips List 
+
+ -  **__[AR-نصائح للمبتدئين الجزء الأول](https://discord.com/channels/1098493491216121916/1274209111965438104/1274209111965438104)__**
+-  **__[15 Tips Ramah untuk Pemula Part 1](https://discord.com/channels/1098493491216121916/1275735637466550364/1275735637466550364)__**
+
+  **Tip1**
+In the early adventure stages it is important to have a healer leveled up to keep up with your team! It is recommended is to start with **Pharmacist**   and then swap to **Minister**  when you obtain her. 
+
+ **Tip2** 
+**Ranger** :Ranger: is a great hero in adventure mode early game because his 3rd skill when unlocked allows him to auto attack while moving but once you obtain legendary heroes don't hesitate to swap him out. 
+
+ **Tip3** 
+Early game do not worry much about your Main team (Queue1) composition especially when you have only 6 or less legendary heroes, it is recommended to just use all of them + Minister or Shaman as a healer. 
+
+ **Tip4**
+The ability to level up Herors in Top Heroes is tied to the **Castle Level** and the **Food cost** :Meat: (we will discuss later), For Castle level always check requirements for it and try to prioritize it, unlike other games you do not have to level up everything equally. 
+
+ **Tip5** 
+After prioritizing your Castle level, always check your Main Queue heroes and level them up too. 
+
+ **Tip6**
+Join an active guild, I can't stress this enough! You miss a lot by not doing so! 
+
+ **Tip7** 
+Keep up with Open world Bounties :Bounty_Mission:  try to not skip them, these Bounties get better the more you use them! Making them really valuable source
+of gain in end game. 
+
+ **Tip8**
+Open world Rallies are great stamina  burner, one of the best when you have spared enough stamina (You will need Guild [Tip6]) for these.  
+
+ **Tip9**
+You can switch on Auto join so you will get some rewards by joining your own guild rallies [Guild tab > War > Enable Auto join], 1 of your Queues should be in town and it will auto join other rallies! (Works when you are offline). 
+
+ **Tip10**
+Once Yeti , Black Dragon or Troll appear on the world map, there is no need to rally the Boars anymore! Focus these 3 for they have a great dark medals shop. 
+
+ **Tip11**
+By now you should have joined an active guild! So keep up with their chat and if they relocate on the map, then make sure to follow them by answering the invitation to the guild assembly point (found at the top of your guild chat currently).
+
+ **Tip12** 
+If your guild owns a ruin! You can relocate anywhere inside it using guild relocation! [Guild tab > Store > pick for 300 coins], you can't shield when you relocate exactly on the ruin (sand area) it is a pvp square so if you want to shield locate your castle on the green fields next to it. 
+
+ **TIP13**
+Upgrade your :Barracks: Barracks! Do not forget about them, especially the barrack of your best hero/s. 
+
+ **Tip14**
+Attacking world mobs, rallying world bosses  can cause soldiers losses! If you can't afford to sustain them, hit a lower level of what you can defeat currently. 
+
+ **Tip15**
+Manage your resources, do not unpack the itemized      unless you are going to use them it is a war game after all, someone will come for it!
+
+## **Top 15 Beginner Tips Returned With Part 2!**
+
+** If you haven't read Part 1 we recommend you read that first**  **__[PART-1](https://discord.com/channels/1098493491216121916/1255167767745921094/1255167767745921094)__**.
+
+ **__Tip1__**
+
+**- :Gems:Manage your Gems Wisely, for new players it's recommended to spend the gems on the following: 
+- Stamina.
+- :Shield:Shields. 
+- Arena tickets.
+- Guild Traits donations. **
+ **__Tip2__**
+
+**- If you are a F2P player it is recommended to buy the vip points available in the guild store as soon as possible, reaching vip 3 at least is really good to unlock more Gems-Purchasble items.**
+ **__Tip3__**
+
+**- :Build:It's a huge advantage to have 2nd Building Queue early on, you can achieve that through 2 ways. 
+- Hiring a second builder for 500 gems for 48 hours. 
+- Purchasing one directly.** 
+ **__Tip4__**
+
+**- :Tech:The previous tip also applies to the tech Queues! However this one can only be purchased $, don't worry though.. if affordable it is really worth it short and long terms.**
+ **__Tip5__**
+
+**- Monthly pass makes your life easier if affordable!, don't hesitate to grab it, as it adds 4th farming Queue, farming speed and more. **
+ **__Tip6__**
+
+**- TopHeroes has a PVP aspect, if it not played correctly or paid attention to, things can get tedious! the following will be some tips about how to play Smart around it.**
+ **__Tip7__**
+
+**- :emoji_118:Keep 1 or more Rare Hero/s at level 1.**
+ **__Tip8__**
+
+**- :emoji_111:When  You are constantly attacked, you can assign That hero to the first Queue alone. 
+
+- Doing will enable this hero to defend your town with minimum amount of troops, massively reducing the amounts of troops wounded when defeated** 
+ **__Tip9__**
+
+**- :Shield:Stack your Shields and manage them well, It is easy to obtain a lot of shields through the following Stores: 
+- Guild Store. 
+- :Gems:Daily Store.
+- :Gems:VIP store. **
+
+** How to create  new character ?**
+** How to change to other server?**
+- Settings > Account > Choose which server you want play.
+
+** How to Link facebook/gmail accounts?**
+- Settings > Account Link > Link facebook/gmail accounts.
+
+** How to Log in to another account/Existing account?**
+- Settings > Account Linking > Log in with existing facebook or gmail account.
+
+- Castle Lv.40: Lv.220
+- Brilliance Castle Lv.10: Lv.5
+- Castle Skin - Cloud Castle -: Lv.10
+- Castle Decor - Night Watcher - Lv.5 Bundle Buff (All): Lv.8
+- Castle Decor - Moonlight Forest - Lv.5 Bundle Buff (Nature): Lv.5
+- League: 220+5+10+8 = Lv.243
+- Horde: 220+5+10+8 = Lv.243
+- Nature: 220+5+10+8+5 = Lv.248
+
+## __**Hero Level and Meat Farming Tips**__
+
+ While it is long grind to max your heroes, the process gives great sense of progress. 
+
+ The following is a generic guide on how to do it as fast as possible for both F2P and Spenders.
+
+-   __**Important to know**__
+
+ Hero Level cannot be reset.
+ Hero Level is mainly tied to the Castle Level.
+ Meat is the only resource currently used in the process of leveling the hero.
+ It is highly recommended to continue upgrading your castle as the value of Meat items increases with higher Castle levels.
+
+Let's break it down further!! 
+
+**Advice1** 
+  Guilds are recommended to rush for guild ranch in their trait tree, while It may seem not worth it early game, end game you will feel it's value. 
+
+**Advice2** 
+  Bounty Mission and Rally Boss  are great sources to farm meat daily. 
+
+**Advice3**
+  Redeem shops will mostly be your main source, they are really big and not to be slept on! 
+
+-  __**Stores where you can acquire Meat**__
+
+ Guild Store 
+ Guild Exchange
+ Medal of Honor
+ Bond point 
+ Rally boss shop .
+ Valor Store  *not recommended*
+ VIP Store *if affordable*
+
+
+**Advice4** 
+ keep one of your Queues farming in guild ranch. 
+
+*The previous tips should indeed grant you a steady progress.*
+
+-  __**Extra Details!!**__
+
+* Castle level 40 allows you to have level 220 Heroes. 
+* Cloud Castle skin allows you to have +10 Levels to a max of 230.
+* Additionally Now we can gain +5 levels by hitting Castle Brilliance (2) to a max of 235.
+*  More levels are possible through acquiring some decorations sets.
+* On servers where promotion bonuses are active, once you level up your Main Queue heroes It is recommended to bring all your heroes up to level 130 then 190 for the extra HP and ATK bonuses. 
+
+ The following Screenshots  display **Cloud Castle** and 2 examples of the decorations  which affect the Herlo level cap!
+
+ In addition I will Post an up to date sheet for the Meat cost/per level. 
+
+ **Wish you all a good ride, and a full stomach for your heroes**
+
+## __Lord's Traits Guide__
+
+** Translations:**
+ **[Panduan Sifat Lord](https://discord.com/channels/1098493491216121916/1297869762969473084)
+ [PL-Polski](https://discord.com/channels/1098493491216121916/1297538871675981854)
+ [Russian](https://discord.com/channels/1098493491216121916/1314338160238526464/1314338160238526464)
+ [Ukrainian](https://discord.com/channels/1098493491216121916/1314309488853127188/1314309488853127188)
+**
+
+**
+## Lord's Traits Categories 
+* __Harvest Lord's Traits__ 
+* __Warlord's Traits__ 
+
+##  Lord's Hall 
+* Both Traits are accessible in passive Trees, via The __Lord's Hall__ building that is available at Castle level 25. 
+
+##  Glory Medals 
+* Glory Medal is an essential currency used to upgrade The __Lord Hall__ providing __Lord Points__ with every level gained. 
+* The only source to gain Glory Medals currently is through participating in __Guild Arms Race__ event. 
+
+##  Lord's Points
+* Lord's point Is the core item to __acquire and level up__ Lord's Traits, and as mentioned above it can be gained by upgrading The Lord Hall.
+
+##  Lord's Traits selection 
+* As we have two options here! One of the important things to know is what to pick so let's break it down quickly! Before we dive in the details.
+
+##  Harvest Lord! Why & When?
+
+* Harvest lord is the first option to pick for the majority of players for it provides them with __nice construction buff__, speeding up their Journy to Castle and Barracks level 40.
+
+* Additionally it is a safe options for the Free to play community, or Peace lovers early game! As they can have tools to support their fighters by constructing __Dark&Light Towers__ for them on the map, without getting their hands dirty in a melee.
+
+##   War Lord! Why & When & __ How to Reset__?
+
+
+* Opposed to the Harvest Lord, War Lord is often chosen later on, mainly because it requires more Lord Points and is less useful for growth. It can be switched from Harvest Lord to War Lord by using the  Lord Trait Reset Scroll, which can be purchased in the Daily Diamond Shop. There is also a free weekly reset. This switch is recommended as soon as the player upgrades to Castle level 40 or whenever they need more combat power.
+
+* War Lord however, by default is a great fit for players who are invested in PVP, and are __regularly spending__ to stay on top, Making this pick the best of both in this scenario Early, and End game, actually the ultimate choice for end game with no doubt.**
+
+- Dim n = Research Level | a = Carry Soldier of a Hero (i = n x a)
+- Troop Limit I/II/III/IV: a = 50
+- Ex.: Troop Limit IV (n = 4) | n x a = 200
+
+##  Early Pet Gameplay (Simplified)
+**
+ [AR-الحيوانات الأليفة ببساطة](https://discord.com/channels/1098493491216121916/1303420945494577152)
+ [Gameplay Hewan Peliharaan](https://discord.com/channels/1098493491216121916/1303368896824479806)
+ [Українська](https://discord.com/channels/1098493491216121916/1303368421555310643/1303368421555310643)
+ [Русский](https://discord.com/channels/1098493491216121916/1303375375535181904/1303375375535181904)
+ [Español](https://discord.com/channels/1098493491216121916/1303419443149406338)
+
+ ## [Recent updates to the system](https://discord.com/channels/1098493491216121916/1303360548301176882/1321227845053452380) Click here to jump!  Pet Types and Rarity
+Currently, there are four available pets, each with unique traits and rarity levels:
+
+ __Slime (Green)__ 
+Type: Generic
+Rarity: Common
+Note: This is the most common pet, and releasing duplicate copies is fine.
+
+ __Bear (Blue)__
+Type: Nature
+Rarity: Rare
+Note: Do not release this pet due to its rarity.
+
+ __Hyena (Blue)__
+Type: Horde
+Rarity: Rare
+Note: Keep this pet as it’s also rare.
+
+ __Sparrow (Blue)__
+Type: League
+Rarity: Rare
+Note: This is another rare pet and should not be released.**
+
+ **Hero Attack:** The main source of power found in multiple sources such as gears, or through leveling heroes, without it no Damage can be dealt! It is a flat Value.  
+
+ **Hero HP:** The main Life source of heroes, it is the main defensive stat, however some heroes utilize it by using a % of it's total to deal Damage through their skills, such as Rose or Tide caller. 
+
+ **Hero Defense:** It is a flat value that is __countered__ by the enemy __Defense break__, the remaining value then gets converted into Damage reduction at a specific ratio.
+
+So defense = % damage reduction. 
+Defense break reduces that by reducing the defense itself.
+
+# Dark Invasion Guide
+
+ -  **__[AR- غزو امبراطورية الظلام](https://discord.com/channels/1098493491216121916/1275317398211133521/1275317398211133521)__**
+-  **__[Invasi Kerajaan Gelap](https://discord.com/channels/1098493491216121916/1275716236646551604)__**
+-    **__[Przewodnik po mrocznej inwazji!](https://discord.com/channels/1098493491216121916/1275845855949226046)__**
+
+**__ Event Details__**
+
+* Guild must have 20 members at least to be able to participate.
+
+* Lords must have level 12  Castle at least.
+
+* The guild leader or an Officer(R4)can choose the start time. 
+
+* **__The event time can be changed before it starts.__**
+
+* Invasion Waves Targets: When the event begins, attacks will be launched from the Dark Gate against three main objectives:
+ 1-All guild players.
+ 2-Online guild players.
+ 3-Defense Post (Fortress).
+
+* Waves: There are 20 attacks in total. Note that attacks 5, 10, 15, and 20 specifically target the fortress.
+
+*   ***Losing defense twice means you can no longer score points.***
+
+ **__Optimal Gameplay Strategy__**
+
+* Castle Defense: Do not defend your own castle. Instead, ask your guildmates to defend you.
+
+* Distributing your Queues: Send your marches to online players after confirming they will stay online throughout the event.
+
+* During Waves 5, 10, 15, and 20, recall the nearest support you've sent to your friends and redirect it to the fortress(Defense Post).
+
+*  Offline Players: Keep a march inside your own castle.
+
+* ^ Send one or more marches to other players or to the fortress (one march to the fortress per player is sufficient).
+
+*   ** Please Note you might find couple of ways to squeeze some more points using speed ups, but it is honestly not worth it.**
+
+ **__Event Difficulty__**
+
+* Difficulty Levels: The event has __Four(4)__ difficulty levels. It is extremely easy for older servers and relatively easy for newer servers.
+
+* Progression: Certain number of points must be scored to unlock the higher difficulty levels,
+
+ **For Example**
+
+* 10m points to unlock difficulty level 3. 
+* 30m points to unlock difficulty Level 4. 
+
+* It’s important to have the most possible number of online players during the first attempt at each difficulty level to ensure enough points are recorded for higher difficulty in future events.
+
+## **__Guild Arms Race__**
+
+
+ [Gildenwettrüsten: Ein Leitfaden, der alles erklärt! ](https://discord.com/channels/1098493491216121916/1304495724221698048)
+
+**Guild Arms Race is a __Guild__ versus __Guild__ event that Lasts for multiple days.**
+
+*Both involved guilds will compete in various stages, and only one will come out on top!*
+
+*The arms race is a true test of your guild, where the activity and teamwork of your members are put to the test.*
+
+**Guild Arms Race event is a __Cross Server__ event meaning you can face Guilds from other servers as well, besides your own server Guilds.**
+
+**Lord can score individually and __claim the personal rewards even if he swaps guild__  after the event is announced.**
+
+**__New:__ Lord can swap guilds and be able to score points for his new guild starting from the next stage.** 
+
+**__The following will be:__**
+*  A detailed guide for each stage. 
+*  Breakdown of Arms Race Tech Tree. 
+* :Rewards: Showcase of the rewards. 
+
+**Let's start with the __six__ stages, each lasting 24 hours!**
+
+## Shadow Of The World Tree Hint
+
+In this hint we will simplify the new season trying to keep it short and easy to read. 
+
+[Update to the Guide](https://discord.com/channels/1098493491216121916/1312952533425328148/1321077689905315892) Click here to jump  The __World Map __will reset, new visuals will appear (Desert theme will apply to the world map). 
+ Ruins will reset and guilds have to capture them again. 
+ Leaving your castle in high tier Ruins territory will drain the water, so it is __Recommended__ to keep t1 or t2 ruin to keep your hive into.
+
+#  Server Transfer!! All We Know So Far!
+
+ [AR-العربية](https://discord.com/channels/1098493491216121916/1332764246638858331)
+ [Українська](https://discord.com/channels/1098493491216121916/1332662641956491264)
+ [Русский](https://discord.com/channels/1098493491216121916/1332668582605094952)
+ [Español](https://discord.com/channels/1098493491216121916/1332703584990793841)
+ [Thai](https://discord.com/channels/1098493491216121916/1332744045482475610/1332744045482475610)
+ [한국인](https://discord.com/channels/1098493491216121916/1332762745409372170)
+
+ [Round1 Is here](https://discord.com/channels/1098493491216121916/1332634765937086495/1338406560392679424) **DISCLAIMER:** Some of the following points may change, as this information is fully based on the **beta version** of the Transfer function.
+
+##  What is it and How does it work?
+-
+Server Transfer allows an individual player to move from Server X to Server Y according to a set of **rules**:
+
+1. By default, Server Transfer will not be available for servers that are **younger** than 90 days.
+
+2. The Transfer must occur within a specific Transfer period lasting 1 week. This period is referred to as a **Transfer round**.
+
+3. Transferring your Castle from Server X to Y requires  Transfer Scrolls.
+
+4. When the Transfer Round begins, you will have a **range** of Servers to choose from. You can:
+
+* **Directly** transfer if your Castle power is **below** the threshold set by the target server’s king.
+
+* If your power is **above** the threshold, the king of the target server must **manually** approve your request.
+
+5. Your current server’s king cannot interfere with your transfer—only the king of your destination server can.
+
+6. During the beta, server X could accept up to 50 players **MAX** from all eligible servers (e.g., T, U, V, W, Y, And Z) Together.
+
+7. Transferring servers will place you on a **60-days cooldown**. 
+
+##  When is the 1st Transfer round expected to happen?
+-
+* Round One is expected to take place in 10th to 16th of February.
+
+* Round 1 will  include servers 1 to 144.
+
+* This does not mean you can transfer between any of these servers, but these servers will have the transfer functionality enabled.
+
+##  How to get  Transfer Scrolls?
+-
+* Currently, one Transfer Scroll can be obtained weekly from the Guild Store.
+
+* Additional scrolls are expected to be available in packages or purchases in the future.
+
+##  Cost of the Transfer [CHECK ROUND 1](https://discord.com/channels/1098493491216121916/1332634765937086495/1338406560392679424)
+-
+* ~~During the beta it was 20 scrolls to castles that are 80m + to infinite~~ __(Subject to change)__.   Minor Notes
+-
+* To transfer, your queues must be idle, and there must be no ongoing carriages or similar activities.
+
+* Additional rules may also apply.
+
+ **SUBJECT TO CHANGE!!**
+
+#  Morale & How to boost it?
+```
+Credits
+* Bloodshade
+* Nomlette 
+* Cookie``` 
+###  What is it?
+```Morale is a dynamic stat affected directly by 2 main factors
+* Troops Level.
+* March Size.```
+###  How does it affect the battle?
+```Morale causes the defender OR the attacker to gain attack boost during the battle that can hit a maximum of 300%, this attack boost is based on which of them had higher Morale before the battle starts.```~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Rubes is a top heroes developer. She is a chicken. Sian who is a top heroes mod loves insulting her.
+
+
+by rubes:
+ 1. **Why was I suddenly attacked by the sandworm swarms when I was caught off guard?**
+  Once the Dune Devourer emerges, it will attack the lords within the ruin where it is located and the adjacent ruin areas. Perhaps you were just around the Dune Devourer, which is why you were struck by sandworm swarms.
+
+2. **Why was I performing well in the previous level of adventure mode, but now I can't deal any damage and almost die instantly?**
+You probably have the water level below the required amount for this section.You need to level up the “Spring of Nature”.
+
+**3.What does the Harvest Event do?**
+This event can only be initiated by the King. The King has the option to set a countdown timer or start it immediately.
+
+Once the Harvest Event begins, fruits will spawn around the World Tree, and any player on the server can gather these fruits. The fruits will continue to appear for 8 hours, after which the Harvest Event will enter a 7-day cooldown period. 
+
+It should be noted that players can only unlock the Harvest Event when they reach level 25.
+
+4.**What does water do?**
+Water is a new feature introduced in the S1 and a key aspect worthy of attention. In S1, different water values will bring various buff bonuses to the territory.
+
+5.**Will there be any negative effects if the water volume in the castle exceeds 100%? **
+No.
+
+6.**How do I get more water?**
+ Build and use the 'Ancient Tree Branch' to upgrade the 'Spring of Nature';
+Build and use the 'Golden Root' to upgrade the 'Guild Holy Spring';
+Purchase the 'Water Flask' for a temporary boost in water supply;
+Have guild members donate water for a temporary increase in water supply;
+Occupy ruins, the environmental water supply in this area will greatly increase, everyone can enjoy this boost, regardless of whether the ruins are occupied by your guild.
+For details, please check the water system adjustment measures panel in the upper left corner of the main interface, where you can see the operations increase and decrease the water supply.
+
+7.**Why can I not spend water on Dune Devourer？**
+You can only spend it during the Moral phase.
+
+8.**How can I make rational use of my Water Flask?**
+Use it during sandstorms to help teammates avoid morale dropping to 0%.
+Use it in PvP, where a difference in water levels can bring up to a 20% bonus.
+Donate it to the Dune Devourer during the morale phase.
+Tip : It doesn't work in adventure.
+
+9.**How can I increase the water in the Adventure?**
+You need to level up the Spring of Nature. Nothing else will increase it.
+
+10.**I see that the castle skin in the Season Store mentions days, what does this mean?**
+The amount of days shows how many days you can use the castle skin once equipped. After that it disappears.
+
+11.**Does the season end when the timer runs out?**
+The timer is for the main seasonal event. When the timer hits zero, all the settings and gameplay elements within S1 will still be active except for some challenge events.
+
+12.**After the season ends, what changes will occur to the activities and various contents?**
+After the season settlement, the following changes will occur: 
+
+ In terms of events: The main event 'Shadow of the World Tree', 'Sandstorm Incoming' and 'Dune Devourer Invasion' will be closed. However, gameplay such as 'Sandstorm Incoming' and 'Dune Devourer Invasion' will be reopened immediately and become permanent events. 
+In terms of content: seasonal buildings, seasonal technology, map ruins, King of the Barrens, water source system, season channel, World Tree donations and other game content will not be recycled or disappear until the start of the next season.
+ 
+13.**When will S2 starts?**
+The specific dates are yet to be determined. However, we will inform you 1 month prior to the start of S2.
+
+#  Server Transfer!! All We Know So Far!
+
+ [AR-العربية](https://discord.com/channels/1098493491216121916/1332764246638858331)
+ [Українська](https://discord.com/channels/1098493491216121916/1332662641956491264)
+ [Русский](https://discord.com/channels/1098493491216121916/1332668582605094952)
+ [Español](https://discord.com/channels/1098493491216121916/1332703584990793841)
+ [Thai](https://discord.com/channels/1098493491216121916/1332744045482475610/1332744045482475610)
+ [한국인](https://discord.com/channels/1098493491216121916/1332762745409372170)
+
+ [Round1 Is here](https://discord.com/channels/1098493491216121916/1332634765937086495/1338406560392679424) **DISCLAIMER:** Some of the following points may change, as this information is fully based on the **beta version** of the Transfer function.
+
+##  What is it and How does it work?
+-
+Server Transfer allows an individual player to move from Server X to Server Y according to a set of **rules**:
+
+1. By default, Server Transfer will not be available for servers that are **younger** than 90 days.
+
+2. The Transfer must occur within a specific Transfer period lasting 1 week. This period is referred to as a **Transfer round**.
+
+3. Transferring your Castle from Server X to Y requires  Transfer Scrolls.
+
+4. When the Transfer Round begins, you will have a **range** of Servers to choose from. You can:
+
+* **Directly** transfer if your Castle power is **below** the threshold set by the target server’s king.
+
+* If your power is **above** the threshold, the king of the target server must **manually** approve your request.
+
+5. Your current server’s king cannot interfere with your transfer—only the king of your destination server can.
+
+6. During the beta, server X could accept up to 50 players **MAX** from all eligible servers (e.g., T, U, V, W, Y, And Z) Together.
+
+7. Transferring servers will place you on a **60-days cooldown**. 
+
+##  When is the 1st Transfer round expected to happen?
+-
+* Round One is expected to take place in 10th to 16th of February.
+
+* Round 1 will  include servers 1 to 144.
+
+* This does not mean you can transfer between any of these servers, but these servers will have the transfer functionality enabled.
+
+##  How to get  Transfer Scrolls?
+-
+* Currently, one Transfer Scroll can be obtained weekly from the Guild Store.
+
+* Additional scrolls are expected to be available in packages or purchases in the future.
+
+##  Cost of the Transfer [CHECK ROUND 1](https://discord.com/channels/1098493491216121916/1332634765937086495/1338406560392679424)
+-
+* ~~During the beta it was 20 scrolls to castles that are 80m + to infinite~~ __(Subject to change)__.   Minor Notes
+-
+* To transfer, your queues must be idle, and there must be no ongoing carriages or similar activities.
+
+* Additional rules may also apply.
+
+ **SUBJECT TO CHANGE!!**
+
+# Dark Invasion Guide
+
+ -  **__[AR- غزو امبراطورية الظلام](https://discord.com/channels/1098493491216121916/1275317398211133521/1275317398211133521)__**
+-  **__[Invasi Kerajaan Gelap](https://discord.com/channels/1098493491216121916/1275716236646551604)__**
+-    **__[Przewodnik po mrocznej inwazji!](https://discord.com/channels/1098493491216121916/1275845855949226046)__**
+
+**__ Event Details__**
+
+* Guild must have 20 members at least to be able to participate.
+
+* Lords must have level 12  Castle at least.
+
+* The guild leader or an Officer(R4)can choose the start time. 
+
+* **__The event time can be changed before it starts.__**
+
+* Invasion Waves Targets: When the event begins, attacks will be launched from the Dark Gate against three main objectives:
+ 1-All guild players.
+ 2-Online guild players.
+ 3-Defense Post (Fortress).
+
+* Waves: There are 20 attacks in total. Note that attacks 5, 10, 15, and 20 specifically target the fortress.
+
+*   ***Losing defense twice means you can no longer score points.***
+
+ **__Optimal Gameplay Strategy__**
+
+* Castle Defense: Do not defend your own castle. Instead, ask your guildmates to defend you.
+
+* Distributing your Queues: Send your marches to online players after confirming they will stay online throughout the event.
+
+* During Waves 5, 10, 15, and 20, recall the nearest support you've sent to your friends and redirect it to the fortress(Defense Post).
+
+*  Offline Players: Keep a march inside your own castle.
+
+* ^ Send one or more marches to other players or to the fortress (one march to the fortress per player is sufficient).
+
+*   ** Please Note you might find couple of ways to squeeze some more points using speed ups, but it is honestly not worth it.**
+
+ **__Event Difficulty__**
+
+* Difficulty Levels: The event has __Four(4)__ difficulty levels. It is extremely easy for older servers and relatively easy for newer servers.
+
+* Progression: Certain number of points must be scored to unlock the higher difficulty levels,
+
+ **For Example**
+
+* 10m points to unlock difficulty level 3. 
+* 30m points to unlock difficulty Level 4. 
+
+* It’s important to have the most possible number of online players during the first attempt at each difficulty level to ensure enough points are recorded for higher difficulty in future events.
+
+ **Hero Attack:** The main source of power found in multiple sources such as gears, or through leveling heroes, without it no Damage can be dealt! It is a flat Value.  
+
+ **Hero HP:** The main Life source of heroes, it is the main defensive stat, however some heroes utilize it by using a % of it's total to deal Damage through their skills, such as Rose or Tide caller. 
+
+ **Hero Defense:** It is a flat value that is __countered__ by the enemy __Defense break__, the remaining value then gets converted into Damage reduction at a specific ratio.
+
+So defense = % damage reduction. 
+Defense break reduces that by reducing the defense itself.
+
+ **Critical Rate:** a % chance to deal a __Critical strike__, amplifying the damage dealt through auto attacks and skills including ultimates when it triggers. 
+
+ **Critical resistance:** A defensive stat that takes each Critical strike, and counter it individually for a chance to turn it into a normal strike again. 
+
+ **Critical Damage:** The % of damage added to an auto attack or skill when a Critical strike successfully applied and passed through the critical resistance.
+
+ **Dodge:** Defensive mechanism that grants % Chance to __completely Evade__ a hit or skill, taking 0 damage in that instance.
+
+ **Hit:** An offensive mean to counter Dodge, if it is higher than Dodge on the enemies' heroes that means the Enemy's heroes won't have any chance to avoid your damage. 
+
+ **Block:** Defensive mechanism that allows your hero to block a strike, When a strike is blocked, 50% of its damage is reduced. 
+
+ **Block break:** An Offensive mean to counter Block, __works similar to Hit__. 
+
+ **Damage:** Multiplier to the Attack attribute, and it can be found on multiple sources, it also has multiple forms, such as Normal hit damage or Skill damage, each applies where it should. 
+
+ **Damage reduction:** Opposite to damage, but similar in concept! For example  Skill damage reduction reduce the damage taken from a skill hit by %. 
+
+ **Hero Healing Rate:** Increases the healing given by a healer to it's target.
+
+ **Hero Healing received:** Amplifies the healing heroes receives from all sources.
+
+## **Top 15 Beginner Tips Returned With Part 2!**
+
+** If you haven't read Part 1 we recommend you read that first**  **__[PART-1](https://discord.com/channels/1098493491216121916/1255167767745921094/1255167767745921094)__**.
+
+ **__Tip1__**
+
+**- :Gems:Manage your Gems Wisely, for new players it's recommended to spend the gems on the following: 
+- Stamina.
+- :Shield:Shields. 
+- Arena tickets.
+- Guild Traits donations. **
+ **__Tip2__**
+
+**- If you are a F2P player it is recommended to buy the vip points available in the guild store as soon as possible, reaching vip 3 at least is really good to unlock more Gems-Purchasble items.**
+ **__Tip3__**
+
+**- :Build:It's a huge advantage to have 2nd Building Queue early on, you can achieve that through 2 ways. 
+- Hiring a second builder for 500 gems for 48 hours. 
+- Purchasing one directly.** 
+ **__Tip4__**
+
+**- :Tech:The previous tip also applies to the tech Queues! However this one can only be purchased $, don't worry though.. if affordable it is really worth it short and long terms.**
+ **__Tip5__**
+
+**- Monthly pass makes your life easier if affordable!, don't hesitate to grab it, as it adds 4th farming Queue, farming speed and more. **
+ **__Tip6__**
+
+**- TopHeroes has a PVP aspect, if it not played correctly or paid attention to, things can get tedious! the following will be some tips about how to play Smart around it.**
+ **__Tip7__**
+
+**- :emoji_118:Keep 1 or more Rare Hero/s at level 1.**
+ **__Tip8__**
+
+**- :emoji_111:When  You are constantly attacked, you can assign That hero to the first Queue alone. 
+
+- Doing will enable this hero to defend your town with minimum amount of troops, massively reducing the amounts of troops wounded when defeated** 
+ **__Tip9__**
+
+**- :Shield:Stack your Shields and manage them well, It is easy to obtain a lot of shields through the following Stores: 
+- Guild Store. 
+- :Gems:Daily Store.
+- :Gems:VIP store. **
+
+# Top 15 Beginner Friendly Tips List 
+
+ -  **__[AR-نصائح للمبتدئين الجزء الأول](https://discord.com/channels/1098493491216121916/1274209111965438104/1274209111965438104)__**
+-  **__[15 Tips Ramah untuk Pemula Part 1](https://discord.com/channels/1098493491216121916/1275735637466550364/1275735637466550364)__**
+
+  **Tip1**
+In the early adventure stages it is important to have a healer leveled up to keep up with your team! It is recommended is to start with **Pharmacist**   and then swap to **Minister**  when you obtain her. 
+
+ **Tip2** 
+**Ranger** :Ranger: is a great hero in adventure mode early game because his 3rd skill when unlocked allows him to auto attack while moving but once you obtain legendary heroes don't hesitate to swap him out. 
+
+ **Tip3** 
+Early game do not worry much about your Main team (Queue1) composition especially when you have only 6 or less legendary heroes, it is recommended to just use all of them + Minister or Shaman as a healer. 
+
+ **Tip4**
+The ability to level up Herors in Top Heroes is tied to the **Castle Level** and the **Food cost** :Meat: (we will discuss later), For Castle level always check requirements for it and try to prioritize it, unlike other games you do not have to level up everything equally. 
+
+ **Tip5** 
+After prioritizing your Castle level, always check your Main Queue heroes and level them up too. 
+
+ **Tip6**
+Join an active guild, I can't stress this enough! You miss a lot by not doing so! 
+
+ **Tip7** 
+Keep up with Open world Bounties :Bounty_Mission:  try to not skip them, these Bounties get better the more you use them! Making them really valuable source
+of gain in end game. 
+
+ **Tip8**
+Open world Rallies are great stamina  burner, one of the best when you have spared enough stamina (You will need Guild [Tip6]) for these.  
+
+ **Tip9**
+You can switch on Auto join so you will get some rewards by joining your own guild rallies [Guild tab > War > Enable Auto join], 1 of your Queues should be in town and it will auto join other rallies! (Works when you are offline). 
+
+ **Tip10**
+Once Yeti , Black Dragon or Troll appear on the world map, there is no need to rally the Boars anymore! Focus these 3 for they have a great dark medals shop. 
+
+ **Tip11**
+By now you should have joined an active guild! So keep up with their chat and if they relocate on the map, then make sure to follow them by answering the invitation to the guild assembly point (found at the top of your guild chat currently).
+
+ **Tip12** 
+If your guild owns a ruin! You can relocate anywhere inside it using guild relocation! [Guild tab > Store > pick for 300 coins], you can't shield when you relocate exactly on the ruin (sand area) it is a pvp square so if you want to shield locate your castle on the green fields next to it. 
+
+ **TIP13**
+Upgrade your :Barracks: Barracks! Do not forget about them, especially the barrack of your best hero/s. 
+
+ **Tip14**
+Attacking world mobs, rallying world bosses  can cause soldiers losses! If you can't afford to sustain them, hit a lower level of what you can defeat currently. 
+
+ **Tip15**
+Manage your resources, do not unpack the itemized      unless you are going to use them it is a war game after all, someone will come for it!
+
+##  Early Pet Gameplay (Simplified)
+**
+ [AR-الحيوانات الأليفة ببساطة](https://discord.com/channels/1098493491216121916/1303420945494577152)
+ [Gameplay Hewan Peliharaan](https://discord.com/channels/1098493491216121916/1303368896824479806)
+ [Українська](https://discord.com/channels/1098493491216121916/1303368421555310643/1303368421555310643)
+ [Русский](https://discord.com/channels/1098493491216121916/1303375375535181904/1303375375535181904)
+ [Español](https://discord.com/channels/1098493491216121916/1303419443149406338)
+
+ ## [Recent updates to the system](https://discord.com/channels/1098493491216121916/1303360548301176882/1321227845053452380) Click here to jump!  Pet Types and Rarity
+Currently, there are four available pets, each with unique traits and rarity levels:
+
+ __Slime (Green)__ 
+Type: Generic
+Rarity: Common
+Note: This is the most common pet, and releasing duplicate copies is fine.
+
+ __Bear (Blue)__
+Type: Nature
+Rarity: Rare
+Note: Do not release this pet due to its rarity.
+
+ __Hyena (Blue)__
+Type: Horde
+Rarity: Rare
+Note: Keep this pet as it’s also rare.
+
+ __Sparrow (Blue)__
+Type: League
+Rarity: Rare
+Note: This is another rare pet and should not be released.**
+
+##  Obtaining Pets through Hatching Eggs
+**Pets can be hatched from eggs, which you can find and incubate in the  Pet Paradise building. Here’s the step-by-step process:
+
+__Collecting Eggs__
+Eggs are obtainable through special bounties, with 3 free bounties available daily and 1 additional bounty for 1,000 gems.
+
+Each bounty can spawn a Slime Boss (Pet Monster), You can attack it solo or with a rally (though both approaches yield the same results).
+
+After defeating the Slime Boss, you have a chance to earn an egg and will always receive pet food.
+
+Level 1 Pet Monster has a chance of 33.3% to drop an egg. 
+Level 2 Pet Monster at (Pet Paradise Level 35) has slightly higher chance to drop an egg, and so on. 
+
+__Capturing and Hatching Eggs__
+To hatch an egg, first capture it by sending a Queue to it. 
+
+Allies can assist in moving the egg to your castle.
+
+Once in your castle, you can hatch the egg in Pet Paradise.
+
+ Egg Rarity and Drop Chances
+Eggs come in two colors, each with different odds of hatching a rare pet:
+
+__Blue Egg__
+20% chance to hatch a Blue (Rare) pet.
+If unsuccessful, a Green (Common) Slime pet will hatch.
+
+__Green Egg__
+10% chance to hatch a Blue (Rare) pet.
+Otherwise, it will hatch a Green (Common) Slime pet.**
+
+##  Improving Your Pets
+**There are 2 things we can focus on to enhance the strength of our pets: 
+
+__Leveling Up__
+Pets can be leveled up using Pet Food, which you receive from defeating Slime Bosses and completing bounties.
+__Promotions__
+Pets can be promoted to higher ranks using duplicate copies, similar to how troop skins can be upgraded.
+
+##  Notes about Pets:
+ You can't use the same type of pet in multiple Queues.
+ Pets have active skills, but their power comes from the buffs/de-buffs they offer when leveled up and promoted.
+ It is possible to be unlucky and get 0 eggs or 0 rare pets for multiple days. 
+
+  Hope this short read is useful to you **
+
+ ##  Update
+
+ Now pet Bounties have 3 rarities, difficulty and Food rewards is different based on the rarity. 
+
+ Bounties that will grant an Egg will display that visually.  
+
+ Rare pets are promotional as early as level 10, not all Promotions require the same type of pet, though it requires the same rarity. 
+
+ Pet food added to VIP and Daily shop, Reduced the time required to capture Eggs, 50 food rewarded for helping a friend to capture an egg max to 10 times a day. 
+
+ Added multiple new Pets.
+
+ Added Pet food factory!
+
+** What is a ruins?**
+When conquered and occupied, the numerous ruins found around the world provide a variety of benefits and prizes.
+
+**Benefits**
+- Buffs
+- Region Territory
+- Daily rewards.
+
+- Buffs - Each ruin has its own buff when occupied.
+
+- Region territory - The guild that occupies a ruin will gain control of the region's territory, allowing guild members to teleport there using guild relocation.
+
+**How to conquer a ruin**
+
+There are two stage you have to win before you can occupy the ruins.
+- Ruins Guardian - These are the monsters you have to defeat first before the barrier.
+- Barrier - Barrier stage is where you will fight the heroes of the defending guild.
+
+There is an option to Scout, Attack or rally a ruin.
+- Scouting will reveal the defending guild's heroes stationed at that ruin..
+- attack will send your team marching to hit the ruin.
+- Rallying will enable your guild members to join your attack and hit the ruin together..
+
+Players can also review their damage in the ruins battle logs.
+
+ What are Faction Statues?
+Statues that gives your hero additional stats when you upgrade them. 
+
+There are three faction statues.
+ Horde Statue
+1% - 30% Horde Damage Boost Against League .
+1% - 30% Horde Reduce Damage Taken From League .
+1% - 40% Horde Hero HP.
+1% - 40% Horde Hero Attack.
+
+ League Statue
+1% - 30% League Damage Boost Against Nature.
+1% - 30% League Reduce Damage Taken From Nature.
+1% - 40% League Hero HP.
+1% - 40% League Hero Attack.
+
+ Nature Statue
+1% - 30% Nature Damage Boost Against Horde .
+1% - 30% Nature Reduce Damage Taken From Horde .
+1% - 40% Nature Hero HP.
+1% - 40% Nature Hero Attack.
+
+When you upgrade a faction statue it will show you the additional stat you will gain.
+
+Below is an example of upgrading the horde statue and expected additional stat is 4%.
+
+** How to Log in to another account/Existing account?**
+- Settings > Account Linking > Log in with existing facebook or gmail account.
+
+** How to create  new character ?**
+** How to change to other server?**
+- Settings > Account > Choose which server you want play.
+
+** How to Link facebook/gmail accounts?**
+- Settings > Account Link > Link facebook/gmail accounts.
+
+Rally your allies, strategize your moves, and conquer enemy fortresses to claim ultimate glory! 
+
+ **Conditions to participate:**Castle Level 15 or above & Guilds need 10+ active members a week before the event.
+**Event Time: **12th May-19th May
+**Opening Server:**s10001-s10034
+*The opening of the season is based on the lifecycle of the server. If there are servers that have not yet opened, we kindly ask for your patience.
+
+# [How to Play]
+
+ 1. Fortress Clash is a mode where guilds clash over fortress control. Only players who were in the guild when the event began may join.
+2. Captured fortresses generate points for the guild daily, and guild members will receive rewards based on the final score rankings.
+3. Lords must assign multiple lineups and deploy them to the right fortresses. Heroes will be fully staffed with soldiers by default, and your soldiers won’t die in this event.
+4. Your guild needs at least 10 active members in the week before the event to qualify.
+
+ **Tips:**
+Currently, 6 guilds will compete together. The system will try to match guilds from different servers.
+
+# [Preparation Stage]
+
+ 1. In the preparation stage, group info is shown, and each guild gets a spawn fortress.
+2. You may view the battlefield and set your plans.
+
+ **Tips:**
+One round per day. Lords have 23 hours to set strategies, and each battle lasts 1 hour. There are 6 rounds in total
+
+# [War Day: Declaration Stage]
+
+ 1. Guild officers (R4 & R5) can declare war on connected fortresses.
+ 2. Daily war declarations depend on your highest-level captured fortress. For example: Lv. 3 fortress = 3 declarations/day. Lv. 2 = 2/day.
+ 3.If you don’t hold any fortresses, you can declare war once per day on any outermost Lv. 1 fortress.
+ 4.Declarations cannot be canceled, so choose wisely.
+ 5.Only TWO guilds may declare on the same fortress. If multiple guilds declare war on the same fortress, the declarations from guilds with lower influence will be invalid, and their declaration attempts will be returned.
+
+**Fortress Score:**
+Lv.1 = 1 point
+Lv.2 = 2 points
+Lv.3 = 3 points
+
+# [War Day: Battle Stage]
+
+ 1. When the battle stage starts, all battles will be auto-resolved by the system.
+2. Battles follow a relay queue system, where teams fight one after another.
+3. The team that survives last wins the fortress.
+
+ Tips: No interference is allowed during the battle, and no real soldiers will be lost.
+
+# [Important Notes]
+
+Leaving your guild after the event starts means you can’t receive any rewards. Return to your original guild to resume participation and claim rewards.
+
+▲The above content is part of the beta version and may be subject to adjustments in the future.▲
+
+Kingdom Transfer
+# Features
+
+**Opening Time**
+ Transfer opens at different times for different servers on a periodic basis.
+
+**Transfer Range**
+1. When transfer starts, kingdoms with similar progress are grouped together.
+2. Kingdom groupings are updated automatically based on development levels during each transfer event.
+3. Transfers are only allowed between kingdoms in the same group.
+
+**Transfer Process**
+1. Once kingdom transfer begins, the King can set power limits for transfers to their server.
+2. Lords above the power limit need approval from the King of the target Kingdom, while those below it are approved automatically.
+3. Lords can transfer to the target kingdom once their application is approved and conditions are met (refer to transfer requirements for details).
+4. If the application isn’t approved in time, it will expire, and the Lord must apply again.
+5. Lords who transfer successfully will be removed from their old kingdom and placed in the new one.
+
+**Open Transfer Slot**
+1.Lords exceeding the power limit need king's approval to transfer, using a special slot.
+2.Lords under the power limit can transfer servers without approval, using an open slot.
+3. Transfer slot availability depends on the stage and resets with each transfer event
+
+# Transfer Requirements
+
+ **Function Enabled**
+1. Castle level 30+ is required.
+2. Transfers must be enabled for your server.
+
+**Requirements**
+1. It has been over 60 days since your last server transfer.
+2.The target server currently has an active king.
+3. Ensure you have enough Transfer Scrolls.
+
+**Transfer Requirements**
+1.All queues are idle
+2.All Carriages are idle
+3.You are not in a Guild
+4.You are not the King.
+5.You are not in another server.
+6. All heroes must remain idle within your castle.
+7. Ensure no heroes are on Ruins Exploration missions.
+8. Ensure no bosses summoned by you are active in the world.
+9.You have no gathering facilities, Towers of Light, or Towers of Darkness under your control on World Map
+10.No pending claim pet eggs on World Map.
+11.Did not register for the Glory Battlefield and did not enter the Glory Battlefield.
+
+ **Conditions to participate**:Castle Level 12 or above
+ **Launch Time: **17th August
+ **Opening Server:** s10001-s10084
+
+**All server opening time**: TBD
+
+ **About Kingdom Duel**
+1. Kingdom Duel matches two equally powerful servers against each other.
+2. The event has two stages: the Preparation stage and the War stage.
+3. In the Preparation stage, lords complete tasks to earn points for their server and win rewards. The server with the most points at the end of the stage wins. The server with fewer points loses.
+4. In the War stage, lords can invade the enemy server to fight and earn points for killing enemy soldiers. A Cross-server Throne War will also take place in the losing server of preparation stage. The server that captures the Royal Castle will have ultimate victory!
+
+Villagers
+ 1. Villagers can be obtained through Adventure Rescues, Villager Visits, and Recruitment.
+2. Once the castle reaches level 7, up to 3 villagers will visit the village entrance daily. Accepting them will add them to your population. The entrance can hold a maximum of 18 villagers at a time.
+3. Villagers have unique skills, which can be upgraded by merging them with another villager of the same level and skill. The consumed villager will be lost in the process.
+4. A villager’s combat power and skills only activate when they are assigned to the correct building.
+ 1. Upgrading a villager requires consuming another villager with the same level and same skill.
+2. If no same-level villager is available, multiple lower-level villagers can be combined to upgrade. You can check progress in the upgrade menu.
+3. Dispatched or locked villagers cannot be used for upgrades.
+ 1. Villagers have unique skills, each affecting combat power differently.
+2. Skills only activate when villagers are assigned. Active skills provide combat bonuses.
+3. Skills apply only to their designated buildings. Assigned villagers will activate their effects.
+
+Ultimate Gold Block Q&A
+ What is Gold Block? 
+ Gold Block is a currency in game that can be used to make purchases.
+
+ How much is a Gold Block worth?
+ Gold Blocks are counted in different currencies.  1 US dollar =  1 USD Gold Blocks. And 1 USD Gold Blocks can be used in the game to purchase a pack worth 1 US dollar! 
+
+ Where to buy Gold Block?
+ In our **ONE & ONLY OFFICIAL** top-up website: https://topheroes.store.kopglobal.com/. 
+ **BEWARE** of all other websites that claim to recharge for you. We haven't authorize any. Much likely you'll put your account and wallet AT RISK  by providing any info to the fake  websites. 
+
+ How to use Gold Block?
+ When there are enough Gold Blocks in the account, purchases will consume Gold Blocks first. Gold Blocks (if you have any) will be displayed below the stamina bar, in the upper left corner of the screen.
+
+
+ Remarks:
+
+  Players can only use Gold Blocks of their corresponding currency. If the Gold Blocks purchased cannot be used in game, please contact customer service, and they will help you resolve the issue.
+
+ Some currencies do not have corresponding Gold Blocks. For players using these currencies, they can use USD Gold Blocks.
+
+ The Top-up website currently supports payment methods including credit cards, Google Pay, Apple Pay, etc. PayPal and other payment methods are being integrated.
+
+ Users who have trouble initiating Google/Apple payment services in game can use Gold Blocks as payment method.
+
+
+
+ This image displays a detailed breakdown of points for an event or game feature titled "Top Lord." The information is presented in a spreadsheet-like format with a clear header and multiple sections, each representing a "Stage."
+
+Here's a detailed explanation of what is visible:
+
+**Overall Structure and Header:**
+*   **Title:** At the very top, the central title reads "Top Lord: Point Breakdown" in a large, bold, white font against a dark red background.
+*   **Disclaimer/Note:** Below the title, in smaller white text, there's a note: "Subject to change at any time. May vary by server. Contact Nomlette with any issues/changes needed." This indicates the dynamic nature of the points or event and provides a contact person.
+*   **Layout:** The main content is organized into a grid, with stages listed horizontally across the top and then continuing below for additional stages. Each stage is a column containing a "Tasks" list and a corresponding "Points" column.
+
+**Detailed Breakdown by Stage:**
+
+The event is divided into at least seven stages, each focusing on different aspects of gameplay.
+
+**First Row of Stages:**
+
+*   **Stage 1: Territory Revival**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Boost Facility Power by 1: 40
+        *   Use 1 min Construction Speed-up: 30
+        *   Use 1 Dragon Essence: 1,200
+        *   Wish for Relic 1 time: 1,500
+        *   Consume 1 Relic Shard: 200/1k/5k (Indicates tiered points for different types or quantities)
+        *   Consume 2000 Magic Stones: 600
+        *   Consume 1 Arcane Crystal: 1,200
+        *   Consume 10 Honor Medals: 8
+        *   Consume 1 Troop Skin: 8k/20k/200k (Indicates tiered points for different types or rarities)
+
+*   **Stage 2: Strongest Soldier**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Use 1 min Training Speed-up: 30
+        *   Train Soldiers: 40-450 (Indicates varying points based on quantity or type)
+        *   Wish for Relic 1 time: 1,500
+        *   Consume 1 Relic Shard: 200/1k/5k
+        *   Consume 2000 Magic Stones: 600
+        *   Consume 1 Arcane Crystal: 1,200
+        *   Consume 10 Honor Medals: 8
+        *   Consume 1 Troop Skin: 8k/20k/200k
+
+*   **Stage 3: Tech Boost**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Boost Technology Power by 1: 40
+        *   Use 1 min Research Speed-up: 30
+        *   Use 1 Dragon Essence: 1,200
+        *   Use 1 Refined Metal: 400
+        *   Use 1 Magic Tread: 400
+        *   Use 1 Orichalcum: 600
+        *   Consume 10 Honor Medals: 8
+        *   Consume 1 Troop Skin: 8k/20k/200k
+
+*   **Stage 4: Call of the Hero**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Recruit hero in the Tavern 1 time: 1,500
+        *   Consume any Hero Shard: 1k/4k/4k (Indicates tiered points)
+        *   Consume any Soul Stone: 120,000
+        *   Consume any Skill Books: 20
+        *   Use 1 Exclusive Gear Shard: 4,000
+        *   Use 1 Refined Metal: 400
+        *   Use 1 Magic Tread: 400
+        *   Use 1 Orichalcum: 600
+
+**Second Row of Stages:**
+
+*   **Stage 5: Combat Ready**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Use 1 min Training Speed-up: 30
+        *   Train Soldiers: 40-450
+        *   Use 1 Pet Food: 4
+        *   Use a pet for EXP or as promo material: 3.2k/19.2k (Indicates tiered points)
+        *   Use 1 Decor Token: 480
+        *   Decor Rating increases by 1: 3,200
+
+*   **Stage 6: Research Construction**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Boost Facility Power by 1: 40
+        *   Boost Technology Power by 1: 40
+        *   Use 1 min Construction Speed-up: 30
+        *   Use 1 min Research Speed-up: 30
+        *   Use 1 Dragon Essence: 1,200
+        *   Use 1 Pet Food: 4
+        *   Use a pet for EXP or as promo material: 3.2k/19.2k
+        *   Use 1 Decor Token: 480
+        *   Decor Rating increases by 1: 3,200
+
+*   **Stage 7: Top Lord**
+    *   **Tasks & Points:**
+        *   Buy 1 Diamonds from packs: 40
+        *   Spend 1 Diamonds: 10
+        *   Recruit hero in the Tavern 1 time: 1,500
+        *   Consume any Hero Shard: 1k/4k/4k
+        *   Consume any Soul Stone: 120,000
+        *   Consume any Skill Books: 20
+        *   Use 1 Exclusive Gear Shard: 4,000
+        *   Use 1 Refined Metal: 400
+        *   Use 1 Magic Tread: 400
+        *   Use 1 Orichalcum: 600
+        *   Use 1 Decor Token: 480
+        *   Decor Rating increases by 1: 3,200
+        *   (Note: This stage appears to have fewer unique tasks or might be a summary of tasks from other stages, as some rows are blank for tasks but populated with points.)
+
+In summary, the image is a comprehensive guide for players participating in a "Top Lord" event, detailing how to earn points across various in-game activities categorized into distinct "stages" like resource management, combat training, technological advancement, hero recruitment, and decorative upgrades. The varying point values suggest different levels of effort or rarity for the items/actions.
+
+ This image displays a digital document or note with white text on a black background, likely intended as a guide or breakdown for a game event.
+
+Here's a detailed explanation of what is visible:
+
+**Overall Appearance:**
+*   The primary visual is white text set against a dark, almost black, background.
+*   The text is formatted with headings, bullet points, and indentation, suggesting a structured document.
+*   In the bottom right corner, a semi-transparent "Activate Windows" watermark is visible, indicating the operating system running on the screen from which the screenshot was taken.
+
+**Content Breakdown:**
+
+The document begins with the heading:
+"Here's a detailed explanation of what is visible:"
+
+Followed by a section titled "**Overall Structure and Header:**" which describes elements not fully visible in this particular crop, but are part of the original context:
+*   "**Title:** At the very top, the central title reads "Top Lord: Point Breakdown" in a large, bold, white font against a dark red backgroun" (text is slightly cut off, likely "background").
+*   "**Disclaimer/Note:** Below the title, in smaller white text, there's a note: "Subject to change at any time. May vary by server. Contact" (text is cut off).
+*   "**Layout:** The main content is organized into a grid, with stages listed horizontally across the top and then continuing below for addit" (text is cut off, likely "additional" or "additions").
+
+Next, a section titled "**Detailed Breakdown by Stage:**" is introduced:
+*   "The event is divided into at least seven stages, each focusing on different aspects of gameplay."
+
+A subsequent heading, "**First Row of Stages:**", appears, suggesting there are multiple rows of stage descriptions.
+
+The document then proceeds to detail specific stages:
+
+**Stage 1: Territory Revival**
+*   This section begins with the bolded title "**Stage 1: Territory Revival**".
+*   Below it, there's a subheading "**Tasks & Points:**".
+*   A list of bullet points follows, outlining tasks and their corresponding point values:
+    *   "Buy 1 Diamonds from packs: 40"
+    *   "Spend 1 Diamonds: 10"
+    *   "Boost Facility Power by 1: 40"
+    *   "Use 1 min Construction Speed-up: 30"
+    *   "Use 1 Dragon Essence: 1,200"
+    *   "Wish for Relic 1 time: 1,500"
+    *   "Consume 1 Relic Shard: 200/1k/5k (Indicates tiered points for different types or quantities)"
+    *   "Consume 2000 Magic Stones: 600"
+    *   "Consume 1 Arcane Crystal: 1,200"
+    *   "Consume 10 Honor Medals: 8"
+    *   "Consume 1 Troop Skin: 8k/20k/200k (Indicates tiered points for different types or rarities)"
+
+**Stage 2: Strongest Soldier**
+*   This section begins with the bolded title "**Stage 2: Strongest Soldier**".
+*   Below it, there's a subheading "**Tasks & Points:**".
+*   A list of bullet points follows, similar to Stage 1, but this list is partially cut off at the bottom of the image:
+    *   "Buy 1 Diamonds from packs: 40"
+    *   "Spend 1 Diamonds: 10"
+    *   "Use 1 min Training Speed-up: 30"
+    *   "Train Soldiers: 40-450 (Indicates varying points based on quantity or type)"
+    *   "Wish for Relic 1 time: 1,500"
+    *   "Consume 1 Relic Shard: 200/1k/5k" (The parenthetical explanation is cut off, but likely similar to Stage 1's description)
+    *   "Consume 2000 Magic Stones: 600"
+    *   "Consume 1 Arcane Crystal: 1,200"
+    *   (Further bullet points are cut off, but based on the previous stage, there would be more tasks listed.)
+
+The overall impression is that this is a detailed guide or plan for players participating in a multi-stage game event, likely providing objectives and point values for completion within each stage.
+
+
