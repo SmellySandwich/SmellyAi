@@ -30,4 +30,4 @@ This code is not to be used, modified, or distributed without explicit permissio
 - googletrans (API key required)
 - google-genai (API key required)
 - pyttsx3
-- emoji
+- google-cloud-aiplatform

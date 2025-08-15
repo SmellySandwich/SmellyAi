@@ -1,10 +1,6 @@
 # Standard imports.
 import sqlite3
 
-# Clean-up text imports.
-import emoji   
-import re
-
 # AI imports.
 from google import genai
 
@@ -43,7 +39,7 @@ Shhhhh... it's ok now guys. SmellyBot is here.
                 '''
             
 
-    def update_memory(self, channel:int, name:str, content:str):
+    def update_channel_memory(self, channel:int, name:str, content:str):
             """ Add the new message to the existing 'memory string'.
             """
 
@@ -110,26 +106,8 @@ Shhhhh... it's ok now guys. SmellyBot is here.
             conn.close()
 
             fun_comment = self.client.models.generate_content(
-                model="gemini-2.5-flash", contents=f"Say something funny about updating data."
+                model="gemini-2.5-flash", contents=f"Say something funny about updating data in 20 words or less."
                 )
 
             return f'OK! My game memory has been updated:\n\n{response}\n\n{fun_comment.text}'
-
-
-    def cleanup(self):
-        """ Cleans up the data copied to the th_data.txt. This will remove emojis and < anything written here >
-            from data and return 'All clean!'.
-        """
-
-        # with open("memory_bank/th_data.txt", "r", encoding='utf-8') as file:
-        #     text = file.read()
-
-        # # Remove all emojis by replacing them with an empty string
-        # clean_text = emoji.replace_emoji(text, replace='')
-        # finished_text = re.sub(r"<[^>]*>", "", clean_text)
-
-        # with open("memory_bank/th_data.txt", "w", encoding='utf-8') as file:
-        #     file.write(finished_text)
-
-        # return 'All clean!'
                 
