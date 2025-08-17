@@ -152,8 +152,6 @@ def run():
                         else:
                             await message.reply(response)
 
-        
-
 
                 except Exception as e:
                     print(f'Error in smelly.py: {e}\n')

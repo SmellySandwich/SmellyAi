@@ -31,3 +31,4 @@ This code is not to be used, modified, or distributed without explicit permissio
 - google-genai (API key required)
 - pyttsx3
 - google-cloud-aiplatform
+- keybert
