@@ -23,11 +23,15 @@ from lib.env.settings import DISCORD_API_TOKEN, GEMINI_API_KEY
 from lib.sqlite3.database import SmellyMemory
 from lib.genai.smellychat import SmellyAI
 from lib.genai.genimage import Image_Gen
+from lib.mod.mod_command import Mod
 
 # Create instances.
 memory = SmellyMemory()
 smellyai = SmellyAI()
 image_gen = Image_Gen()
+mod = Mod()
+
+local_converstaion_memory = []
 
 client = discord.Client(intents=discord.Intents.default())
 def run():
@@ -35,7 +39,7 @@ def run():
     intents.message_content = True
     # client = discord.Client(intents=discord.Intents.default())
 
-    # Bot forced commands with !
+    # Bot enables with $smellybot
     bot = discord.ext.commands.Bot(command_prefix='!', intents=intents, case_insensitive=False, help_command=None)
 
     @bot.event
@@ -86,6 +90,8 @@ def run():
 
                 try:
 
+                    # Forced commands for smellybot.
+
                     # If the sent message is an image use OCR to populate database with the description.
                     if message.attachments:
                         for attachment in message.attachments:
@@ -94,22 +100,41 @@ def run():
                             
                             client = genai.Client(api_key=GEMINI_API_KEY)
                             response = client.models.generate_content(
-                            model="gemini-2.5-flash", contents=['explain what you see in this picture in detail. Ensure all text is processed neatly with no asterisk added.', img]
+                            model="gemini-2.5-flash", contents=['explain what you see in this picture in detail. Ensure all text is processed neatly and translated to english.', img]
                             )
                             
                             content = f"This is a picture - {response.text}"
-
+                    
                     try:
-                        memory.update_channel_memory(channel, name, content) # Send user message to memory string.       
-                    except IndexError:
-                        pass
+                        memory.update_chat_memory(channel, user, name, content) # Send user message to memory string.       
+                    except IndexError as e:
+                        print(f'Error in smelly.py line 107: {e}')
 
-                    if ('smellybot' or 'smellybot?' or 'smellybot,' or 'smellybot!') in content.lower():
+                    # Add data to game database.
+                    if 'smellyadd' in content.lower():
+                        if channel == 1170014109438316615 or channel == 1396633305285267592:
+                            data = await smellyai.chatbot(channel, f'{content}')
+
+                            response = mod.save_game_data(name, data)
+                            await message.reply(response)
+
+                    # Retrieve data from game database.
+                    if 'smellymod' in content.lower():
+                        if channel == 1170014109438316615 or channel == 1396633305285267592:
+                            query = await smellyai.chatbot(channel, f'{content}')
+                            response = mod.return_game_data(query)
+
+                            await message.reply(response)
+                            
+
+                    # Standard SmellyBot calls - not mod related.
+                    elif ('smellybot' or 'smellybot?' or 'smellybot,' or 'smellybot!') in content.lower():
                         
                         # await message.reply('Sorry folks, I will be down for a few hours. Feel free to contact customer serv... never mind, lost cause. BE BACK SOON!')
                         # return
 
                         response = await smellyai.chatbot(channel, content)
+
                         
 
 
@@ -139,14 +164,6 @@ def run():
                             file_remove =  await message.channel.send(file=File(f'{str(channel)}.mp3'))
                             os.remove(f'{str(file_remove)}.mp3')
 
-                        # Commit images to game memory.
-                        elif response[:2] == '03':
-                            memory.image_input_to_game_memory(user, response)
-
-                        # Commit changes and updates to game memory.
-                        elif response[:2] == '04':
-                            response = memory.update_game_memory(user, response)
-                            await message.reply(response)
 
                         # Respond to input if no special functions are called.
                         else:

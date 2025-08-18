@@ -1,0 +1,43 @@
+- This is your memory for the game Top Heroes
+- This data is called when requested and contains the name of the person who submitted it with the data to be checked.
+
+"name": "Smelly",
+"data": "nom's special ability is the chair smash. it adds buffs the spray bottle attack and the two combine to 6b damage.",
+
+"name": "Smelly",
+"data": "This image displays a **"Rush Event Summary"** in a tabular format, likely for a video game or an online strategy game.
+
+**1. Top Section - Title and Disclaimer:**
+*   **Title:** "Rush Event Summary"
+*   **Disclaimer Text:** "Subject to change at any time. May vary by server. Contact Nomlette with any issues/changes needed."
+
+**2. Main Table - Section 1: Guild Race**
+*   **Column 1: Pet Ranking**
+    *   **Event Aligns with:** "Pet Food tasks"
+    *   **Tasks:** Consume 10 Skill Books, Consume 100 Pet Food, Use 1 pet as promotion material, Release 1 pet
+*   **Column 2: Relic Race**
+    *   **Event Aligns with:** "Relic tasks"
+    *   **Tasks:** Activate any Relic, Consume any Relic Shards, Consume 1 Arcane Crystal, Consume 2000 Magic Stones
+*   **Column 3: Gear Trial**
+    *   **Event Aligns with:** "Lord's Gear tasks"
+    *   **Tasks:** Use 100 Refined Thread, Use 1 Magic Tread, Use 1 Orichalcum, Complete 1 Bounty Quests, Consume any Troop Skin, Use 200 Medals
+
+**3. Main Table - Section 2: Guild Arms Race / Kingdom Duel**
+*   **Column 1: Construction of Territory**
+    *   **Event Aligns with:** "Territory Revivial/Tech Boost"
+    *   **Tasks:** Use 1 Dragon Essence, Use 16,000 Timber, Use 16,000 Stones, Use 8,000 Rubies, Use 1 Minute Construction Speed-up, Use 1 Minute Research Speed-up, Complete 1 Bounty Quest
+*   **Column 2: Hero Development**
+    *   **Event Aligns with:** "Global Battles/Call of the Hero"
+    *   **Tasks:** Consume any Hero Shard, Use 1 Exclusive Gear Shard, Consume 1 Soul Stone, Consume 10 Skill Books
+*   **Column 3: Decor Upgrade**
+    *   **Event Aligns with:** "Combat Ready/Invincible Warrior"
+    *   **Tasks:** Decor rating increases by 1 point, Use 1 Decor Token
+
+**4. Bottom Section - Footer:**
+*   **Date:** "Updated: 7/19/2025"
+
+The document is formatted like a spreadsheet, with clear cell borders and varying background colors for headings (dark purple, light purple, light blue). The text is white against the colored backgrounds and black against the white cell backgrounds.",
+
+"name": "Bloodshade 💜",
+"data": "fart",
+

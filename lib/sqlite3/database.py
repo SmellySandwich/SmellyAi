@@ -1,5 +1,6 @@
 # Standard imports.
 import sqlite3
+import ast
 
 # AI imports.
 from google import genai
@@ -24,7 +25,7 @@ class SmellyMemory:
             c = conn.cursor()
 
             # Check to see if channel exists.
-            c.execute("SELECT memory FROM Memory WHERE channel = ?", (channel,))
+            c.execute("SELECT chat_memory FROM Memory WHERE channel = ?", (channel,))
             channel_exists = c.fetchall()
             
             if channel_exists: return ('I am already listening.')
@@ -34,13 +35,11 @@ class SmellyMemory:
                 conn.commit()
                 conn.close()
                 
-                return f'''Hey there! It's me... SmellyBot! I will get in on the conversation when i hear smellybot.\n
-Shhhhh... it's ok now guys. SmellyBot is here.
-                '''
-            
+                # return f"Hey there, It's me, SmellyBot! I will get in on the conversation when i hear my name. How about we fill up this chat a bit to warm me up."
+                return f"Hello my mod overlords! I'm here to assist you. I will devlop with you over time, for now you can talk to me by saying my name in a conversation. You can help build my memory and as time passes and I will become a more effective tool for you all to use."
 
-    def update_channel_memory(self, channel:int, name:str, content:str):
-            """ Add the new message to the existing 'memory string'.
+    def update_chat_memory(self, channel:int, user_id:int, name:str, content:str):
+            """ Chat memory will hold the last 20 conversations.
             """
 
             if channel == 1170014109438316615:
@@ -49,25 +48,77 @@ Shhhhh... it's ok now guys. SmellyBot is here.
                 conn = sqlite3.connect('memory_bank/channel_memory.db')
             c = conn.cursor()        
 
-            c.execute("SELECT memory FROM Memory WHERE channel = ?", (channel,))
-            smelly_memory = c.fetchall()[0][0]
+            c.execute("SELECT chat_memory FROM Memory WHERE channel = ?", (channel,))
+
+            fetch_memory = c.fetchall()
+            smelly_memory = fetch_memory[0][0]
             smelly_first_output = 'SmellyBot:Greetings! I am SmellyBot, ready to assist with your questions and tasks. How may I help you today in this channel?'        
+            
+            tuple_insert = f'(user_id:{user_id},name:{name},message:{content})'
 
             # After Smellybot is called insert first entry to database.
             if smelly_memory is None:
-                c.execute("UPDATE Memory SET memory = ? WHERE channel = ?", (f'{smelly_first_output}-{name}:{content}-', channel))
+                c.execute("UPDATE Memory SET chat_memory = ? WHERE channel = ?", (f'({smelly_first_output})~~{tuple_insert}', channel))
                 conn.commit()
                 conn.close()
 
-            # If there is a memory, pull the entire string and append the new content.              
+            # If there is a memory, pull the entire string and append the new content. Keep it at 20 messages.              
             else:
-                c.execute("SELECT memory FROM Memory WHERE channel = ?", (channel,))
-                memory_string = c.fetchall()[0][0]
-                new_memory_string = f'{memory_string}{name}:{content}-'
+                conversation_length = smelly_memory.split('~~')
 
-                c.execute("UPDATE Memory SET memory = ? WHERE channel = ?", (new_memory_string, channel))
+                if len(conversation_length) > 20: conversation_length.pop(0)
+                smelly_memory = '~~'.join(conversation_length)
+                
+                new_memory_string = f'{smelly_memory}~~{tuple_insert}'
+
+                c.execute("UPDATE Memory SET chat_memory = ? WHERE channel = ?", (new_memory_string, channel))
                 conn.commit()
                 conn.close()
+
+
+    def update_personal_memory(self, channel:int, user_id:int, name:str, content:str):
+        """ Personal memory will save the 20 most recent preferences for each channel.
+        """
+        
+        if channel == 1170014109438316615:
+            conn = sqlite3.connect('memory_bank/mod_memory.db')
+        else:
+            conn = sqlite3.connect('memory_bank/channel_memory.db')
+        c = conn.cursor()        
+
+        c.execute("SELECT personal_memory FROM Memory WHERE channel = ?", (channel,))
+
+        fetch_memory = c.fetchall()
+        personal_memory = fetch_memory[0][0]
+
+        content = content[2:] 
+        tuple_insert = f'(user_id:{user_id},name:{name},message:{content})'
+
+        # If memory is empty, add point.
+        if personal_memory is None:
+            
+            c.execute("UPDATE Memory SET personal_memory = ? WHERE channel = ?", (f'(user_id:{user_id},name:{name},message:{content})~~', channel))
+            conn.commit()
+            conn.close()
+            
+        # If there is a memory, pull the entire string and append the new content. Keep it at 20 memory points.              
+        else:
+            conversation_length = personal_memory.split('~~')
+
+            if len(conversation_length) > 20: conversation_length.pop(0)
+            personal_memory = '~~'.join(conversation_length)
+            
+            new_memory_string = f'{personal_memory}~~{tuple_insert}'
+
+            c.execute("UPDATE Memory SET personal_memory = ? WHERE channel = ?", (new_memory_string, channel))
+            conn.commit()
+            conn.close()
+
+        fun_comment = self.client.models.generate_content(
+                model="gemini-2.5-flash", contents=f"Say i have stored the information in a funny way in 10 words or less."
+                )
+
+        return fun_comment.text
 
 
     def image_input_to_game_memory(self, user:int, response:str):
