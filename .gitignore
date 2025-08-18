@@ -2,6 +2,7 @@
 __pycache__
 smelly_brain.db
 mod_memory.db
+game_data.txt
 .env
 .env_example
 .jpg
