@@ -18,7 +18,7 @@ class SmellyMemory:
             """ Activate SmellyBot for channel. Database will be created for his memory.
             """   
 
-            if channel == 1170014109438316615:
+            if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
                  conn = sqlite3.connect('memory_bank/mod_memory.db')
             else:
                 conn = sqlite3.connect('memory_bank/channel_memory.db')
@@ -36,13 +36,13 @@ class SmellyMemory:
                 conn.close()
                 
                 # return f"Hey there, It's me, SmellyBot! I will get in on the conversation when i hear my name. How about we fill up this chat a bit to warm me up."
-                return f"Hello my mod overlords! I'm here to assist you. I will devlop with you over time, for now you can talk to me by saying my name in a conversation. You can help build my memory and as time passes and I will become a more effective tool for you all to use."
+                return f"I hope this get's me out of beta!"
 
     def update_chat_memory(self, channel:int, user_id:int, name:str, content:str):
             """ Chat memory will hold the last 20 conversations.
             """
 
-            if channel == 1170014109438316615:
+            if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
                  conn = sqlite3.connect('memory_bank/mod_memory.db')
             else:
                 conn = sqlite3.connect('memory_bank/channel_memory.db')
@@ -51,25 +51,26 @@ class SmellyMemory:
             c.execute("SELECT chat_memory FROM Memory WHERE channel = ?", (channel,))
 
             fetch_memory = c.fetchall()
-            smelly_memory = fetch_memory[0][0]
+            chat_memory = fetch_memory[0][0]
             smelly_first_output = 'SmellyBot:Greetings! I am SmellyBot, ready to assist with your questions and tasks. How may I help you today in this channel?'        
             
             tuple_insert = f'(user_id:{user_id},name:{name},message:{content})'
 
             # After Smellybot is called insert first entry to database.
-            if smelly_memory is None:
+            if chat_memory is None:
                 c.execute("UPDATE Memory SET chat_memory = ? WHERE channel = ?", (f'({smelly_first_output})~~{tuple_insert}', channel))
                 conn.commit()
                 conn.close()
 
             # If there is a memory, pull the entire string and append the new content. Keep it at 20 messages.              
             else:
-                conversation_length = smelly_memory.split('~~')
-
-                if len(conversation_length) > 20: conversation_length.pop(0)
-                smelly_memory = '~~'.join(conversation_length)
+                conversation_length = chat_memory.split('~~')
                 
-                new_memory_string = f'{smelly_memory}~~{tuple_insert}'
+                if len(conversation_length) > 10: conversation_length.pop(0)
+                chat_memory = '~~'.join(conversation_length)
+                # print(chat_memory)
+                # print()
+                new_memory_string = f'{chat_memory}~~{tuple_insert}'
 
                 c.execute("UPDATE Memory SET chat_memory = ? WHERE channel = ?", (new_memory_string, channel))
                 conn.commit()
@@ -80,7 +81,7 @@ class SmellyMemory:
         """ Personal memory will save the 20 most recent preferences for each channel.
         """
         
-        if channel == 1170014109438316615:
+        if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
             conn = sqlite3.connect('memory_bank/mod_memory.db')
         else:
             conn = sqlite3.connect('memory_bank/channel_memory.db')
@@ -104,8 +105,8 @@ class SmellyMemory:
         # If there is a memory, pull the entire string and append the new content. Keep it at 20 memory points.              
         else:
             conversation_length = personal_memory.split('~~')
-
-            if len(conversation_length) > 20: conversation_length.pop(0)
+            
+            if len(conversation_length) > 10: conversation_length.pop(0)
             personal_memory = '~~'.join(conversation_length)
             
             new_memory_string = f'{personal_memory}~~{tuple_insert}'
@@ -115,7 +116,7 @@ class SmellyMemory:
             conn.close()
 
         fun_comment = self.client.models.generate_content(
-                model="gemini-2.5-flash", contents=f"Say i have stored the information in a funny way in 10 words or less."
+                model="gemini-2.5-flash", contents=f"Let us know what you remember. 10 words or less, make it funny and relative to what you remembered."
                 )
 
         return fun_comment.text

@@ -2,10 +2,10 @@
 - This data is called when requested and contains the name of the person who submitted it with the data to be checked.
 
 "name": "Smelly",
-"data": "nom's special ability is the chair smash. it adds buffs the spray bottle attack and the two combine to 6b damage.",
+"data": "ENTRY 1: nom's special ability is the chair smash. it adds buffs the spray bottle attack and the two combine to 6b damage.",
 
 "name": "Smelly",
-"data": "This image displays a **"Rush Event Summary"** in a tabular format, likely for a video game or an online strategy game.
+"data": "ENTRY 2: This image displays a **"Rush Event Summary"** in a tabular format, likely for a video game or an online strategy game.
 
 **1. Top Section - Title and Disclaimer:**
 *   **Title:** "Rush Event Summary"
@@ -38,6 +38,240 @@
 
 The document is formatted like a spreadsheet, with clear cell borders and varying background colors for headings (dark purple, light purple, light blue). The text is white against the colored backgrounds and black against the white cell backgrounds.",
 
-"name": "Bloodshade 💜",
-"data": "fart",
+"name": "Bloodshade ",
+"data": "ENTRY 3: fart",
+
+"name": "Smelly",
+"data": "ENTRY 4: you can chop a tree by dm'ing nom repeatedly until she either answers or hits you with a chair.",
+
+"name": "Smelly",
+"data": "ENTRY 5: This image is a screenshot of a conversation taking place on a Discord server, characterized by its dark theme with white text. It details information related to game mechanics, specifically regarding the unlocking conditions for an "infinite tech tree."
+
+**1. Top Message (from @Warm Cookie [EN/ESP]):**
+*   **Sender:** @Warm Cookie [EN/ESP]
+*   **Roles/Tags:** `RAWK` (likely a Discord role specific to the server or game, perhaps an abbreviation)
+*   **Mention:** The message directly addresses `@Katherine`.
+*   **Content:** "do we know how the new infinite tech tree is unlocked? We thought it was unlocked by getting every other tech tree to 100% but looking at this report thats clearly not the case P"
+*   **Interpretation:** This user is asking Katherine for clarification on how to unlock a new "infinite tech tree" in the game. They previously believed it required completing all other tech trees to 100%, but a "report" has shown this assumption to be incorrect. The small icon `P` at the end is an emoji, possibly representing a person or a document.
+
+**2. Reply Message (from Katherine):**
+*   **Sender:** Katherine
+*   **Roles/Tags:** ` TH` (This likely indicates a game-related role or status for Katherine, possibly "Town Hall" or "Tech Hunter" given the sword emoji and "TH" abbreviation).
+*   **Timestamp:** 12:21 AM
+*   **Content:** Katherine provides specific unlock requirements, segmented by server type.
+
+    *   **Servers 1-107:** This section outlines the requirements for older or established servers.
+        *   **Display:**
+            *   "Unlock 80% of Tech Tree Heroes and Queue boost."
+            *   "If in a season, also complete 100% of current season tech research."
+        *   **Research:**
+            *   "Unlock 100% of Tech Tree Heroes and Queue boost."
+            *   "If in a season, also complete 100% of current season tech research."
+
+    *   **New Servers:** This section outlines the requirements for more recently created servers, which have slightly different conditions.
+        *   **Display:**
+            *   "Unlock 80% of Tech Tree Heroes and Soldiers."
+            *   "If in a season, also complete 100% of current season tech research."
+        *   **Research:**
+            *   "Unlock 100% of Tech Tree Heroes and Soldiers."
+            *   "If in a season, also complete 100% of current season tech research."
+
+**Summary of Information Provided by Katherine:**
+Katherine's reply clarifies the complex conditions for unlocking the "infinite tech tree." The conditions vary based on whether a server is an older one (Servers 1-107) or a "New Server." Additionally, within each server type, there are different requirements for "Display" versus "Research" aspects of the unlock. A common requirement across all scenarios is the completion of 100% of current season tech research if the game is currently in a season. The primary difference between server types is whether "Queue boost" (for older servers) or "Soldiers" (for new servers) is the required secondary component alongside "Tech Tree Heroes."",
+
+"name": "Smelly",
+"data": "ENTRY 8: Blue (rare) relics:
+ 
+1 Yellow star: x shards * 5 = x shards 
+2 Yellow star: x shards * 5 = x shards 
+3 Yellow star: 4 shards * 5 = 20 shards
+4 Yellow star: 8 shards * 5 = 40 shards
+5 Yellow star: x shards * 5 = x shards 
+All yellow stars: x shards 
+
+1 Red star : x shards * 5 = x shards 
+2 Red star : x shards * 5 = x shards 
+3 Red star : x shards * 5 = x shards 
+4 Red star : 32 shards * 5 = 160 shards
+5 Red star : 40 shards * 5 = 200 shards
+All red stars: x shards 
+Overall cost: x shards
+
+1 Silver star : 70 shards * 5 = 350 shards
+2 Silver star : 90 shards * 5 = 450 shards
+3 Silver star : x shards * 5 = x shards 
+4 Silver star : x shards * 5 = x shards 
+5 Silver star : x shards * 5 = x shards 
+All silver stars: x shards  
+Overall cost: x shards 
+
+1 Black star : x shards * 5 = x shards 
+2 Black star : x shards * 5 = x shards 
+3 Black star : x shards * 5 = x shards 
+4 Black star : x shards * 5 = x shards 
+5 Black star : x shards * 5 = x shards 
+All black stars: x shards 
+Overall cost: x shards",
+
+"name": "Smelly",
+"data": "Purple (epic) relics:
+
+1 Yellow star: 2 shards * 5 = 10 shards
+2 Yellow star: 4 shards * 5 = 20 shards
+3 Yellow star: 4 shards * 5 = 20 shards
+4 Yellow star: x shards * 5 = x shards 
+5 Yellow star: x shards * 5 = x shards 
+All yellow stars:
+
+1 Red star : 12 shards * 5 = 60 shards
+2 Red star : 16 shards * 5 = 80 shards
+3 Red star : 20 shards * 5 = 100 shards
+4 Red star : x shards * 5 = x shards 
+5 Red star : 32 shards * 5 = 140 shards
+All red stars: x shards
+Overall cost: x shards
+
+1 Silver star : 44 shards * 5 = 220 shards
+2 Silver star : 50 shards * 5 = 250 shards
+3 Silver star : 66 shards * 5 = 330 shards
+4 Silver star : 100 shards * 5 = 500 shards
+5 Silver star : x shards * 5 = x shards 
+All silver stars: x shards
+Overall cost: x shards
+
+1 Black star : x shards * 5 = x shards 
+2 Black star : x shards * 5 = x shards 
+3 Black star : x shards * 5 = x shards 
+4 Black star : x shards * 5 = x shards 
+5 Black star : x shards * 5 = x shards 
+All black stars: x shards
+Overall cost: x shards",
+
+"name": "Smelly",
+"data": "Golden (legendary) relics:
+
+1 Yellow star: 2 shards * 5= 10 shards
+2 Yellow star: 4 shards * 5 = 20 shards
+3 Yellow star: 4 shards * 5 = 20 shards
+4 Yellow star: 8 shards * 5 = 40 shards
+5 Yellow star: 8 shards * 5 =40 shards
+All yellow stars: 130 shards
+
+1 Red star : 12 shards * 5 = 60 shards
+2 Red star : 12 shards * 5 = 60 shards
+3 Red star : 14 shards * 5 = 70 shards
+4 Red star : 16 shards * 5 = 80 shards
+5 Red star : 16 shards * 5 = 80 shards
+All red stars: 350 shards
+Overall cost: 480 shards
+
+1 Silver star : 22 shards * 5 = 110 shards
+2 Silver star : x shards * 5 = shards 
+3 Silver star : 26 shards * 5 = 130 shards
+4 Silver star : 28 shards * 5 = 140 shards
+5 Silver star : 60 shards * 5 = 300 shards
+All silver stars: x shards
+Overall cost: x shards
+
+1 Black star : 20 shards * 5 = 100 shards
+2 Black star : x shards * 5 = shards 
+3 Black star : x shards * 5 = shards 
+4 Black star : x shards * 5 = shards 
+5 Black star : x shards * 5 = shards 
+All black stars: x shards
+Overall cost: x shards",
+
+"name": "Smelly",
+"data": "For B4, Nature Barracks is required. For B5 on old servers, you'll need the Training Ground along with any Level 4 Barracks. It's important to know both for specific server requirements.",
+
+"name": "RedPanda",
+"data": "remember the following ways to get relics f2p:
+Royalty: Finish Void Vault
+Cape: Legion bosses
+Ring: Legion Bosses
+Persecution: Season 1 bosses
+Frost Diadem: Season 2 bosses",
+
+"name": "Smelly",
+"data": "This is a picture - This image is a screenshot from a mobile device, likely displaying content within a messaging or chat application in dark mode.
+
+Here's a detailed breakdown of what is visible:
+
+**1. Top Status Bar:**
+*   On the left, the time "7:29" is displayed.
+*   On the right, there are standard mobile indicators: full cellular signal bars, full Wi-Fi signal bars, and a battery icon showing "22" for 22% charge.
+
+**2. Application Header/Navigation Bar:**
+*   On the far left, there is a back arrow (`←`).
+*   Next to it, a hash symbol (`#`) typically indicates a channel or topic in chat applications.
+*   Following the hash symbol, there's a waving hand emoji (`👋`).
+*   The channel or topic name is displayed as "player-to-player-support".
+
+**3. Main Content - Data Table/List:**
+*   Below the header, there's a table-like list with two columns, separated by vertical bars (`|`).
+*   **Column Headers:**
+    *   The first column is labeled "Lvl" (likely an abbreviation for "Level").
+    *   The second column is labeled "Pet Food".
+*   **Data Rows:** The list details "Pet Food" amounts corresponding to different "Lvl" values, ranging from Level 1 to Level 34.
+    *   There is a partially visible, obscured profile picture or avatar to the left of the "Lvl" header.
+    *   A scrollbar is visible on the far right edge of the screen, indicating that the list likely continues beyond what is currently displayed.
+
+Here are the visible entries from the table:
+
+| Lvl | Pet Food |
+| :-- | :------- |
+| 1   | 0        |
+| 2   | 100      |
+| 3   | 150      |
+| 4   | 200      |
+| 5   | 250      |
+| 6   | 300      |
+| 7   | 400      |
+| 8   | 500      |
+| 9   | 600      |
+| 10  | 700      |
+| 11  | 800      |
+| 12  | 900      |
+| 13  | 1000     |
+| 14  | 1100     |
+| 15  | 1200     |
+| 16  | 1300     |
+| 17  | 1400     |
+| 18  | 1500     |
+| 19  | 1600     |
+| 20  | 1700     |
+| 21  | 1800     |
+| 22  | 1900     |
+| 23  | 2000     |
+| 24  | 2100     |
+| 25  | 2200     |
+| 26  | 2300     |
+| 27  | 2400     |
+| 28  | 2500     |
+| 29  | 2600     |
+| 30  | 2750     |
+| 31  | 2900     |
+| 32  | 3050     |
+| 33  | 3200     |
+| 34  | 3350     |
+
+**4. Bottom Navigation/Action Bar:**
+*   At the bottom of the screen, there is a Korean phrase followed by a white underline.
+*   **Original Text:** `메시지로 이동하기`
+*   **English Translation:** `Go to message` or `Move to message` (This likely functions as a button to jump to the latest message or open a message input field).
+
+**In summary,** the image displays a reference guide, possibly within a game or community chat, showing the amount of "Pet Food" required or rewarded for each "Level" from 1 to 34, within a "player-to-player-support" channel.",
+
+"name": "Smelly",
+"data": "This is a picture - This image is a screenshot from a mobile device, likely an iPhone, displaying a user interface in dark mode. Here's a detailed breakdown of what is visible:
+
+Pet Food Levels
+**Main Content Area (Center):**
+This section displays a list of two columns of numbers, separated by vertical bars (`|`).
+*   **Column 1 (Left):** Consists of sequential integers starting from 25 and going up to 59. These likely represent levels, ranks, or stages in a progression system.
+    *   The visible range is: 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59.
+*   **Column 2 (Right):** Displays corresponding numerical values that generally increase with each "level" in the first column. These could represent points, scores, experience required to reach that level, or rewards received at that level.
+    *   The visible range is: 2200, 2300, 2400, 2500, 2600, 2750, 2900, 3050, 3200, 3350, 3500, 3650, 3800, 3950, 4100, 4300, 4500, 4700, 4900, 5100, 5300, 5500, 5700, 5900, 6100, 6350, 6600, 6850, 7100, 7350, 7600, 7850, 8100, 8350, 8850.
+    *   Noticeable increments: From 25 to 29, the increment is 100. From 29 to 39, it's 150. From 39 to 49, it's 200. From 49 to 58, it's 250. From 58 to 59, it's 500. This indicates a non-linear progression.
+*   **Scroll Bar:** A thin, light grey vertical scroll bar is visible on the right edge of the main content area, indicating that there is more content (either above or below the current view) that can be scrolled through.
 

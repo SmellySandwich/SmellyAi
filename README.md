@@ -32,3 +32,4 @@ This code is not to be used, modified, or distributed without explicit permissio
 - pyttsx3
 - google-cloud-aiplatform
 - keybert
+- emoji

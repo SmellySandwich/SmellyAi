@@ -80,6 +80,8 @@ def run():
         channel = message.channel.id
         user = message.author.id
         
+        # if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
+
         if message.author.name != 'SmellyAiBeta': # Prevents SmellyBot from answering himself in a loop.
 
             ctx = await bot.get_context(message)
@@ -93,26 +95,28 @@ def run():
                     # Forced commands for smellybot.
 
                     # If the sent message is an image use OCR to populate database with the description.
+                    
                     if message.attachments:
+
                         for attachment in message.attachments:
                             request = requests.get(attachment.url)
                             img = Image.open(BytesIO(request.content))
                             
                             client = genai.Client(api_key=GEMINI_API_KEY)
                             response = client.models.generate_content(
-                            model="gemini-2.5-flash", contents=['explain what you see in this picture in detail. Ensure all text is processed neatly and translated to english.', img]
+                            model="gemini-2.5-flash", contents=['explain what you see in this picture in 100 words or less please only give important information.', img]
                             )
                             
                             content = f"This is a picture - {response.text}"
-                    
+                                
                     try:
                         memory.update_chat_memory(channel, user, name, content) # Send user message to memory string.       
                     except IndexError as e:
-                        print(f'Error in smelly.py line 107: {e}')
+                        pass
 
                     # Add data to game database.
                     if 'smellyadd' in content.lower():
-                        if channel == 1170014109438316615 or channel == 1396633305285267592:
+                        if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
                             data = await smellyai.chatbot(channel, f'{content}')
 
                             response = mod.save_game_data(name, data)
@@ -120,23 +124,22 @@ def run():
 
                     # Retrieve data from game database.
                     if 'smellymod' in content.lower():
-                        if channel == 1170014109438316615 or channel == 1396633305285267592:
+                        if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
                             query = await smellyai.chatbot(channel, f'{content}')
-                            response = mod.return_game_data(query)
-
+                            response = mod.return_game_data(channel, query)
                             await message.reply(response)
-                            
+
+                    # Personal memory for ordinary channels.
+                    if 'smellybot remember' in content.lower():
+                        response = memory.update_personal_memory(channel, user, name, content)
+                        await message.reply(response)
 
                     # Standard SmellyBot calls - not mod related.
                     elif ('smellybot' or 'smellybot?' or 'smellybot,' or 'smellybot!') in content.lower():
                         
-                        # await message.reply('Sorry folks, I will be down for a few hours. Feel free to contact customer serv... never mind, lost cause. BE BACK SOON!')
-                        # return
-
                         response = await smellyai.chatbot(channel, content)
 
                         
-
 
 
                         ''' Execute functions based on specific return '''
@@ -157,13 +160,12 @@ def run():
                             engine = pyttsx3.init()
                             engine.setProperty('rate', 150)
 
-                            engine.save_to_file(f"{response[3:100]}", f'{str(channel)}.mp3')
+                            engine.save_to_file(f"{response[3:]}", f'{str(channel)}.mp3')
                             engine.runAndWait()
                             engine = pyttsx3.init()
                             
-                            file_remove =  await message.channel.send(file=File(f'{str(channel)}.mp3'))
-                            os.remove(f'{str(file_remove)}.mp3')
-
+                            file_remove = await message.channel.send(file=File(f'{str(channel)}.mp3'))
+                            os.remove(f'{str(channel)}.mp3')
 
                         # Respond to input if no special functions are called.
                         else:
@@ -174,8 +176,8 @@ def run():
                     print(f'Error in smelly.py: {e}\n')
                     pass
 
-        # Allow bot commands to be called while using on_message.   
-        await bot.process_commands(message)
+            # Allow bot commands to be called while using on_message.   
+            await bot.process_commands(message)
   
     # RUN SMELLY, RUN!
     bot.run(DISCORD_API_TOKEN)
