@@ -1,5 +1,6 @@
 # AI imports.
 from google import genai
+from google.genai import types
 
 # Standard imports.
 import sqlite3
@@ -22,10 +23,10 @@ class Mod:
             )
 
         with open('memory_bank/game_data.txt', 'a', encoding='utf-8') as file:
-            file.write(f'"name": "{name}",\n"data": "{data}",\n\n')
+            file.write(f'"name": "{name}",\n"data": "{data.text}",\n\n')
 
         fun_comment = self.client.models.generate_content(
-            model="gemini-2.5-flash", contents=f"let them know the data has been saved. Summarize in 10 words or less then make fun of them."
+            model="gemini-2.5-flash", contents=f"let them know the data has been saved. Summarize in 10 words or less then make fun of them. No bold text"
             )
 
         return fun_comment.text
@@ -47,7 +48,9 @@ class Mod:
             data = file.read()
 
         response = self.client.models.generate_content(
-                model="gemini-2.5-flash", contents=f"Read the following conversation and data and provide an answer for the question - Conversation: {chat_memory} -- Data: {data} -- Question: {query}"
+                model="gemini-2.5-flash",
+                config=types.GenerateContentConfig(system_instruction=f"Read the following conversation and data and provide an answer for the question in 3000 words or less, no bold text. If someone asks you to remember something remind them to use the 'shmellyadd' command."),
+                contents=f"Conversation: {chat_memory} -- Data: {data} -- Question: {query}"
                 )
-
+        
         return response.text      

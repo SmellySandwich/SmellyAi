@@ -36,10 +36,10 @@ class SmellyMemory:
                 conn.close()
                 
                 # return f"Hey there, It's me, SmellyBot! I will get in on the conversation when i hear my name. How about we fill up this chat a bit to warm me up."
-                return f"I hope this get's me out of beta!"
+                return f"Never fear, I is here."
 
     def update_chat_memory(self, channel:int, user_id:int, name:str, content:str):
-            """ Chat memory will hold the last 20 conversations.
+            """ Chat memory will hold the last x conversations.
             """
 
             if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
@@ -68,8 +68,7 @@ class SmellyMemory:
                 
                 if len(conversation_length) > 10: conversation_length.pop(0)
                 chat_memory = '~~'.join(conversation_length)
-                # print(chat_memory)
-                # print()
+              
                 new_memory_string = f'{chat_memory}~~{tuple_insert}'
 
                 c.execute("UPDATE Memory SET chat_memory = ? WHERE channel = ?", (new_memory_string, channel))
@@ -78,7 +77,7 @@ class SmellyMemory:
 
 
     def update_personal_memory(self, channel:int, user_id:int, name:str, content:str):
-        """ Personal memory will save the 20 most recent preferences for each channel.
+        """ Personal memory will save the x most recent preferences for each channel.
         """
         
         if channel == 1170014109438316615 or channel == 1209129630255022131 or channel == 1407181532174487562:
@@ -116,7 +115,7 @@ class SmellyMemory:
             conn.close()
 
         fun_comment = self.client.models.generate_content(
-                model="gemini-2.5-flash", contents=f"Let us know what you remember. 10 words or less, make it funny and relative to what you remembered."
+                model="gemini-2.5-flash", contents=f"Respond with a summary that you have saved their data in 30 words or less in a fun way."
                 )
 
         return fun_comment.text

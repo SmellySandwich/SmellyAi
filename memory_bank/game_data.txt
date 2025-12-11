@@ -150,7 +150,7 @@ Overall cost: x shards",
 "name": "Smelly",
 "data": "Golden (legendary) relics:
 
-1 Yellow star: 2 shards * 5= 10 shards
+1 Yellow star: 2 shards * 5 = 10 shards
 2 Yellow star: 4 shards * 5 = 20 shards
 3 Yellow star: 4 shards * 5 = 20 shards
 4 Yellow star: 8 shards * 5 = 40 shards
@@ -193,29 +193,7 @@ Persecution: Season 1 bosses
 Frost Diadem: Season 2 bosses",
 
 "name": "Smelly",
-"data": "This is a picture - This image is a screenshot from a mobile device, likely displaying content within a messaging or chat application in dark mode.
-
-Here's a detailed breakdown of what is visible:
-
-**1. Top Status Bar:**
-*   On the left, the time "7:29" is displayed.
-*   On the right, there are standard mobile indicators: full cellular signal bars, full Wi-Fi signal bars, and a battery icon showing "22" for 22% charge.
-
-**2. Application Header/Navigation Bar:**
-*   On the far left, there is a back arrow (`←`).
-*   Next to it, a hash symbol (`#`) typically indicates a channel or topic in chat applications.
-*   Following the hash symbol, there's a waving hand emoji (`👋`).
-*   The channel or topic name is displayed as "player-to-player-support".
-
-**3. Main Content - Data Table/List:**
-*   Below the header, there's a table-like list with two columns, separated by vertical bars (`|`).
-*   **Column Headers:**
-    *   The first column is labeled "Lvl" (likely an abbreviation for "Level").
-    *   The second column is labeled "Pet Food".
-*   **Data Rows:** The list details "Pet Food" amounts corresponding to different "Lvl" values, ranging from Level 1 to Level 34.
-    *   There is a partially visible, obscured profile picture or avatar to the left of the "Lvl" header.
-    *   A scrollbar is visible on the far right edge of the screen, indicating that the list likely continues beyond what is currently displayed.
-
+"data": Pet food levels
 Here are the visible entries from the table:
 
 | Lvl | Pet Food |
@@ -255,13 +233,6 @@ Here are the visible entries from the table:
 | 33  | 3200     |
 | 34  | 3350     |
 
-**4. Bottom Navigation/Action Bar:**
-*   At the bottom of the screen, there is a Korean phrase followed by a white underline.
-*   **Original Text:** `메시지로 이동하기`
-*   **English Translation:** `Go to message` or `Move to message` (This likely functions as a button to jump to the latest message or open a message input field).
-
-**In summary,** the image displays a reference guide, possibly within a game or community chat, showing the amount of "Pet Food" required or rewarded for each "Level" from 1 to 34, within a "player-to-player-support" channel.",
-
 "name": "Smelly",
 "data": "This is a picture - This image is a screenshot from a mobile device, likely an iPhone, displaying a user interface in dark mode. Here's a detailed breakdown of what is visible:
 
@@ -274,4 +245,106 @@ This section displays a list of two columns of numbers, separated by vertical ba
     *   The visible range is: 2200, 2300, 2400, 2500, 2600, 2750, 2900, 3050, 3200, 3350, 3500, 3650, 3800, 3950, 4100, 4300, 4500, 4700, 4900, 5100, 5300, 5500, 5700, 5900, 6100, 6350, 6600, 6850, 7100, 7350, 7600, 7850, 8100, 8350, 8850.
     *   Noticeable increments: From 25 to 29, the increment is 100. From 29 to 39, it's 150. From 39 to 49, it's 200. From 49 to 58, it's 250. From 58 to 59, it's 500. This indicates a non-linear progression.
 *   **Scroll Bar:** A thin, light grey vertical scroll bar is visible on the right edge of the main content area, indicating that there is more content (either above or below the current view) that can be scrolled through.
+
+
+
+"name": "Smelly",
+"data": "**Guild Fort System Update**
+
+*   **Guild Fort:**
+    *   Initially no buffs.
+    *   Upgrades expand territory from 7x7 to 15x15 grids.
+    *   Expansion allows more player castles and guild buildings.
+    *   Future: Specific territory buffs.
+    *   **Requirements:** "Guild Territory" talent unlocked, server open >= 2 days, guild members >= 10, total guild power >= 100,000.
+*   **Guild Tech:** Members contribute Stone to activate talents.
+*   **Guild Gold Coins:**
+    *   Guild-owned currency.
+    *   Upgrades Fort, Arrow Tower, Hospital.
+    *   Managed by R4+ members only.
+    *   Obtained via guild help.
+    *   Not removed by leaving players.
+*   **Integration:** Guild Fort adapts to season mechanics, merges with "Guild Sacred Spring," and preserves all invested upgrades.",
+
+
+
+"name": "Smelly",
+"data": "**Top Lord: Task & Point Breakdown**
+
+**Last Updated:** August 5, 2025
+**Disclaimer:** Subject to change at any time; may vary by server.
+
+**Point Sources & Values:**
+
+*   Buying Diamonds from Packs: 40 points
+*   Using any Speed-Up: 45 points
+*   Using Dragon Essence: 2,000 points
+*   Relic Shard: 200/1,000/5,000 points (various tiers)
+*   Wish for Relic 1 time: 1,500 points
+*   Troop Skins: up to 300,000 points
+*   Honor Medals: 10 medals = 12 points
+*   Refined Metal: 1,000 points
+*   Recruit hero in the tavern 1 time: 1,500 points
+*   Soulstones: 120,000 points
+*   Increase Decor rating: 3,200 points per point",
+
+"name": "Smelly",
+"data": "*   **"Ultimate Skill Coefficient" effect:** Increases the ultimate skill's base coefficient, added directly to it.
+*   **Damage Formula:** `Total Damage = Attack * (Base Skill Coefficient + Ultimate Skill Coefficient Bonus) * (1 + Damage Bonus + Skill Damage Bonus) * Enemy Damage Reduction`
+*   **Bonus Application:** "Damage Bonus" and "Skill Damage Bonus" are additive within the `(1 + ...)` multiplier.",
+
+"name": "Smelly",
+"data": "Here are the facts from the provided text, with redundant filler removed:
+
+*   **Guild Forts & Territory:**
+    *   Initial Forts provide no buffs, but territory expands with upgrades (from 7x7 to 15x15).
+    *   Larger territory allows more castles and guild buildings.
+    *   Future buff effects are planned within Fort territory.
+
+*   **Guild Fort Construction Requirements:**
+    *   Unlock Guild Talent: Guild Territory
+    *   Server open for at least 2 days
+    *   Guild has at least 10 members
+    *   Guild's total power is at least 100,000
+
+*   **Guild Tech:**
+    *   Guild Tech is added to Guild Talents.
+    *   All members can contribute Stone to activate talents.
+
+*   **Guild Gold Coins:**
+    *   Used to upgrade guild buildings (Guild Fort, Arrow Tower, Barricade, Hospital, Warehouse).
+    *   Are guild property, not individual player property.
+    *   Only R4 and above can manage and spend them.
+    *   Cannot be taken by players leaving the guild.
+    *   Currently obtained only through guild help.
+
+*   **Season End & Fort Integration:**
+    *   After a season, Guild Forts will integrate with season mechanics and merge with Guild Sacred Spring.
+    *   Upgrades invested in the Fort will be retained.",
+
+"name": "Hyena",
+"data": "**LEGENDARY RELIC Progression Table Data:**
+
+*   **Title:** LEGENDARY RELIC
+*   **Columns:** Star Level, Shards per 1/5, Shards lvl, Total shards, Total per tier.
+*   **Star Levels:** Four tiers, each with 5 levels: Yellow (1-5), Red (1-5), White/Silver (1-5), Gold (1-5).
+*   **Shard Costs:**
+    *   "Shards per 1/5" ranges from 2 (1 Yellow Star) to 60 (5 Gold Stars).
+    *   "Shards lvl" (per full star level) is 5x "Shards per 1/5".
+    *   "Total shards" (cumulative) for max 5 Gold Stars is 2490.
+*   **Tier-based Costs ("Total per tier"):**
+    *   Yellow Tier: 130 shards
+    *   Red Tier: 360 shards
+    *   White/Silver Tier: 1000 shards
+    *   Gold Tier: 1000 shards",
+
+"name": "nomlette",
+"data": "No image was provided.
+
+Relic tiers (in order): Red, Gold (visual yellow), White, Black (visual gold).",
+
+"name": "Smelly",
+"data": "I cannot view images, so I'm unable to see the chart you're describing.
+
+To get the data, please provide it to me in a text format (e.g., list, table, or plain sentences), and I will extract the facts for you without any filler.",
 
